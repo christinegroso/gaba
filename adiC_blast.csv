@@ -1,0 +1,501 @@
+Genome,Genome ID,PATRIC ID,RefSeq Locus Tag,Gene,Product,Length (NT),Length (AA),ALN Length,Identity,Query cover,Subject cover,Hit from,Hit to,Score,E value
+Escherichia coli MS 124-1,679205.4,fig|679205.4.peg.4490,HMPREF9347_04656,,Arginine/agmatine antiporter,1338,445,445,100,100,100,1,445,881,0
+Escherichia coli MS 145-7,679204.3,fig|679204.3.peg.3965,HMPREF9348_04106,,Arginine/agmatine antiporter,1338,445,445,100,100,100,1,445,881,0
+Shigella sp. D9,556266.3,fig|556266.3.peg.2563,ShiD9_010100012640,,Arginine/agmatine antiporter,1338,445,445,100,100,100,1,445,881,0
+Escherichia sp. 3_2_53FAA,469598.5,fig|469598.5.peg.3699,ESAG_03586,,Arginine/agmatine antiporter,1338,445,445,100,100,100,1,445,881,0
+Citrobacter sp. 30_2,469595.3,fig|469595.3.peg.4475,CSAG_04482,,Arginine/agmatine antiporter,1338,445,445,95,100,100,1,445,845,0
+Sutterella wadsworthensis HGA0223,1203554.3,fig|1203554.3.peg.1792,HMPREF1476_01709,,Lysine/cadaverine antiporter membrane protein CadB,1515,504,504,40,96,85,49,478,325,5.00E-104
+Klebsiella oxytoca 10-5243,883118.3,fig|883118.3.peg.371,HMPREF9687_00376,,Lysine/cadaverine antiporter membrane protein CadB,1338,445,445,40,98,98,2,439,320,5.00E-103
+Klebsiella sp. 1_1_55,469608.3,fig|469608.3.peg.2551,HMPREF0485_01981,,Lysine/cadaverine antiporter membrane protein CadB,1335,444,444,39,98,99,2,440,319,1.00E-102
+Klebsiella sp. MS 92-3,749535.4,fig|749535.4.peg.3420,HMPREF9538_03981,,Lysine/cadaverine antiporter membrane protein CadB,1335,444,444,40,97,97,2,433,317,7.00E-102
+Klebsiella pneumoniae subsp. pneumoniae WGLW2,1203545.3,fig|1203545.3.peg.1053,HMPREF1306_01042,,Lysine/cadaverine antiporter membrane protein CadB,1335,444,444,40,97,97,2,433,317,7.00E-102
+Sutterella wadsworthensis HGA0223,1203554.3,fig|1203554.3.peg.1777,HMPREF1476_01692,,Lysine/cadaverine antiporter membrane protein CadB,1623,540,540,38,98,82,93,535,314,2.00E-99
+Escherichia coli MS 124-1,679205.4,fig|679205.4.peg.4511,HMPREF9347_04677,,Lysine/cadaverine antiporter membrane protein CadB,1335,444,444,38,99,99,2,442,295,3.00E-93
+Escherichia coli MS 145-7,679204.3,fig|679204.3.peg.3944,HMPREF9348_04084,,Lysine/cadaverine antiporter membrane protein CadB,1335,444,444,38,99,99,2,442,295,3.00E-93
+Shigella sp. D9,556266.3,fig|556266.3.peg.2581,ShiD9_010100012735,cadB,Lysine/cadaverine antiporter membrane protein CadB,1335,444,444,38,99,99,2,442,295,3.00E-93
+Escherichia sp. 3_2_53FAA,469598.5,fig|469598.5.peg.3717,ESAG_03606,,Lysine/cadaverine antiporter membrane protein CadB,1335,444,444,38,99,99,2,442,295,3.00E-93
+Pseudomonas sp. 2_1_26,665948.3,fig|665948.3.peg.2687,HMPREF1030_02686,,Lysine/cadaverine antiporter membrane protein CadB,1356,451,451,39,98,98,5,445,289,1.00E-90
+Pseudomonas sp. P179,1125698.3,fig|1125698.3.peg.5522,HMPREF1224_10923,,Lysine/cadaverine antiporter membrane protein CadB,1356,451,451,39,98,98,5,445,289,1.00E-90
+Proteus mirabilis WGLW6,1125694.3,fig|1125694.3.peg.245,HMPREF1311_00248,,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1356,451,451,35,92,91,11,421,265,1.00E-81
+Escherichia sp. 3_2_53FAA,469598.5,fig|469598.5.peg.316,ESAG_00522,,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1320,439,439,33,98,100,2,438,257,1.00E-78
+Escherichia coli MS 124-1,679205.4,fig|679205.4.peg.697,HMPREF9347_00742,,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1320,439,439,33,98,100,2,438,255,7.00E-78
+Escherichia coli MS 145-7,679204.3,fig|679204.3.peg.2579,HMPREF9348_02654,,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1320,439,439,33,98,100,2,438,255,7.00E-78
+Shigella sp. D9,556266.3,fig|556266.3.peg.3460,ShiD9_010100017061,potE,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1320,439,439,33,98,100,2,438,255,7.00E-78
+Clostridiales bacterium S5-A11,1230730.3,fig|1230730.3.peg.857,HMPREF1633_04340,,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1338,445,445,35,90,90,5,406,251,4.00E-76
+Clostridiales bacterium S5-A11,1230730.3,fig|1230730.3.peg.851,,,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1443,480,480,34,91,84,2,404,250,2.00E-75
+Veillonella montpellierensis DNF00314,1401067.3,fig|1401067.3.peg.955,HMPREF0872_05010,,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1341,446,446,34,90,90,5,406,244,1.00E-73
+Veillonella sp. ACP1,936588.3,fig|936588.3.peg.1300,HMPREF1151_1172,potE_2,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1332,443,443,33,95,95,5,427,243,3.00E-73
+Veillonella atypica strain CMW7756B,39777.1,fig|39777.10.peg.48,HMPREF3233_00048,,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1332,443,443,34,95,95,5,427,242,6.00E-73
+Actinomyces neuii strain MJR8396A,33007.3,fig|33007.3.peg.410,HMPREF3198_00418,,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1452,483,483,34,92,86,5,421,241,5.00E-72
+Sutterella wadsworthensis HGA0223,1203554.3,fig|1203554.3.peg.1797,HMPREF1476_01714,,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1347,448,448,34,97,97,4,436,236,2.00E-70
+Lactobacillus oris F0423,944562.4,fig|944562.4.peg.1735,HMPREF9102_1023,potE,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1320,439,439,35,83,85,2,373,235,2.00E-70
+Staphylococcus lugdunensis M23590,525377.3,fig|525377.3.peg.1783,HMPREF0790_1817,potE,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1329,442,442,32,97,99,2,439,235,5.00E-70
+Dermabacter sp. HFH0086,1203568.3,fig|1203568.3.peg.971,HMPREF1484_00997,,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1407,468,468,35,92,89,1,418,232,1.00E-68
+Veillonella sp. 3_1_44,457416.3,fig|457416.3.peg.1084,HMPREF0873_01082,,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1251,416,416,33,92,100,1,416,228,6.00E-68
+Clostridium sp. 7_2_43FAA,457396.3,fig|457396.3.peg.1809,CSBG_01895,,Lysine/cadaverine antiporter membrane protein CadB,1314,437,437,34,98,100,1,436,228,1.00E-67
+Veillonella sp. ACP1,936588.3,fig|936588.3.peg.1233,HMPREF1151_0177,potE_1,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1320,439,439,33,90,91,6,406,213,5.00E-62
+Veillonella atypica strain CMW7756B,39777.1,fig|39777.10.peg.1490,HMPREF3233_01524,,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1320,439,439,33,91,93,6,412,213,8.00E-62
+Clostridiales bacterium S5-A11,1230730.3,fig|1230730.3.peg.378,HMPREF1633_01920,,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1335,444,444,32,94,94,6,424,211,4.00E-61
+Sutterella wadsworthensis HGA0223,1203554.3,fig|1203554.3.peg.1798,HMPREF1476_01715,,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1302,433,433,32,81,83,4,362,199,1.00E-56
+Clostridium perfringens WAL-14572,742739.3,fig|742739.3.peg.3151,HMPREF9476_03160,,Lysine/cadaverine antiporter membrane protein CadB,1323,440,440,33,97,100,1,438,198,4.00E-56
+Paenisporosarcina sp. HGH0030,1078085.3,fig|1078085.3.peg.3084,HMPREF1210_03115,,Arginine/ornithine antiporter ArcD,1401,466,466,31,96,98,5,461,178,1.00E-48
+Staphylococcus haemolyticus DNF00585,1401071.3,fig|1401071.3.peg.2287,HMPREF2135_11430,,Arginine/ornithine antiporter ArcD,1431,476,476,30,99,94,2,448,174,3.00E-47
+Staphylococcus capitis SK14,553212.3,fig|553212.3.peg.1993,STACA0001_1843,,Arginine/ornithine antiporter ArcD,1431,476,476,29,99,96,2,457,165,5.00E-44
+Clostridium perfringens WAL-14572,742739.3,fig|742739.3.peg.2758,HMPREF9476_02752,,Arginine/ornithine antiporter ArcD,1437,478,478,28,97,93,3,445,159,1.00E-41
+Sutterella wadsworthensis HGA0223,1203554.3,fig|1203554.3.peg.1789,HMPREF1476_01706,,"Putrescine/proton symporter, putrescine/ornithine antiporter PotE",1302,433,433,32,80,82,8,363,149,1.00E-38
+Staphylococcus epidermidis M23864:W1,525378.3,fig|525378.3.peg.1596,HMPREF0793_0790,arcD,Arginine/ornithine antiporter ArcD,1431,476,476,27,99,96,2,457,146,2.00E-37
+Staphylococcus aureus subsp. aureus MRSA131,754025.3,fig|754025.3.peg.258,HMPREF9528_00274,,Arginine/ornithine antiporter ArcD,1431,476,476,28,98,95,4,453,143,4.00E-36
+Bacillus smithii 7_3_47FAA,665952.3,fig|665952.3.peg.470,HMPREF1015_01281,,Arginine/ornithine antiporter ArcD,1446,481,481,29,89,89,2,431,143,5.00E-36
+Staphylococcus aureus subsp. aureus CM05,1134842.3,fig|1134842.3.peg.980,HMPREF1384_01023,,Arginine/ornithine antiporter ArcD,1431,476,476,28,98,95,4,453,142,9.00E-36
+Treponema denticola SP37,999438.3,fig|999438.3.peg.1192,HMPREF9724_01153,,"Uncharacterized amino acid permease, GabP family",1281,426,426,29,95,97,3,417,141,1.00E-35
+Propionibacterium acnes HL002PA3,765117.3,fig|765117.3.peg.2283,HMPREF9615_02421,,Arginine/ornithine antiporter ArcD,1557,518,518,29,91,80,40,454,139,1.00E-34
+Bacillus smithii 7_3_47FAA,665952.3,fig|665952.3.peg.389,HMPREF1015_01248,,Amino acid permease family protein,1419,472,472,28,98,99,2,467,138,1.00E-34
+Clostridium difficile 70-100-2010,1002369.4,fig|1002369.4.peg.2160,HMPREF9945_02241,,"Uncharacterized amino acid permease, GabP family",1314,437,437,30,85,84,3,370,134,2.00E-33
+Clostridium difficile 002-P50-2011,997827.4,fig|997827.4.peg.1952,HMPREF1122_01992,,"Uncharacterized amino acid permease, GabP family",1314,437,437,30,85,84,3,370,133,6.00E-33
+Clostridium difficile NAP07,525258.3,fig|525258.3.peg.3192,HMPREF0219_2954,,"Uncharacterized amino acid permease, GabP family",1314,437,437,30,85,84,3,370,132,9.00E-33
+Oxalobacter formigenes OXCC13,556269.4,fig|556269.4.peg.331,OFBG_01248,,Arginine/ornithine antiporter ArcD,1515,504,504,30,92,85,16,444,129,2.00E-31
+Neisseria flavescens SK114,596320.3,fig|596320.3.peg.444,NEIFL0001_2135,,Arginine/ornithine antiporter ArcD,1431,476,476,28,91,88,2,419,128,3.00E-31
+Klebsiella pneumoniae subsp. pneumoniae WGLW2,1203545.3,fig|1203545.3.peg.2085,HMPREF1306_02070,,Arginine/ornithine antiporter ArcD,1383,460,460,30,97,95,3,437,128,3.00E-31
+Klebsiella sp. MS 92-3,749535.4,fig|749535.4.peg.4989,HMPREF9538_05827,,Arginine/ornithine antiporter ArcD,1383,460,460,30,97,95,3,437,127,5.00E-31
+Klebsiella oxytoca 10-5243,883118.3,fig|883118.3.peg.1891,HMPREF9687_01873,,Arginine/ornithine antiporter ArcD,1383,460,460,29,97,95,3,437,127,6.00E-31
+Escherichia sp. 3_2_53FAA,469598.5,fig|469598.5.peg.1864,ESAG_02274,,Arginine/ornithine antiporter ArcD,1383,460,460,29,92,90,3,414,126,1.00E-30
+Escherichia coli MS 124-1,679205.4,fig|679205.4.peg.1638,HMPREF9347_01702,,Arginine/ornithine antiporter ArcD,1383,460,460,29,92,90,3,414,126,1.00E-30
+Escherichia coli MS 145-7,679204.3,fig|679204.3.peg.523,HMPREF9348_00524,,Arginine/ornithine antiporter ArcD,1383,460,460,29,92,90,3,414,126,1.00E-30
+Shigella sp. D9,556266.3,fig|556266.3.peg.217,ShiD9_010100004762,,Arginine/ornithine antiporter ArcD,1383,460,460,29,92,90,3,414,126,1.00E-30
+Clostridium difficile 70-100-2010,1002369.4,fig|1002369.4.peg.3071,HMPREF9945_03183,,"Uncharacterized amino acid permease, GabP family",1320,439,439,26,95,98,6,437,125,3.00E-30
+Pseudomonas sp. HPB0071,1203578.3,fig|1203578.3.peg.1389,HMPREF1487_05694,,Arginine/ornithine antiporter ArcD,1425,474,474,28,91,88,2,417,124,6.00E-30
+Enterococcus faecium ERV102,1134820.3,fig|1134820.3.peg.1915,HMPREF1362_02044,,Arginine/ornithine antiporter ArcD,1425,474,474,26,98,93,1,441,124,7.00E-30
+Citrobacter sp. 30_2,469595.3,fig|469595.3.peg.2102,CSAG_01245,,Arginine/ornithine antiporter ArcD,1383,460,460,30,92,90,3,414,123,1.00E-29
+Fusobacterium ulcerans 12-1B,457404.5,fig|457404.5.peg.1931,HMPREF0402_02189,,Arginine/ornithine antiporter ArcD,1485,494,494,31,75,71,9,359,122,2.00E-29
+Clostridium difficile 002-P50-2011,997827.4,fig|997827.4.peg.1047,HMPREF1122_01064,,"Uncharacterized amino acid permease, GabP family",1320,439,439,26,95,98,6,437,122,2.00E-29
+Corynebacterium sp. CMW7794,1603887.3,fig|1603887.3.peg.247,HMPREF3227_00253,,Arginine/ornithine antiporter ArcD,1518,505,505,27,89,83,25,442,121,1.00E-28
+Parvimonas sp. KA00067,1588755.3,fig|1588755.3.peg.110,HMPREF3181_00112,,"Uncharacterized amino acid permease, GabP family",1332,443,443,27,85,86,3,383,119,3.00E-28
+Escherichia sp. 3_2_53FAA,469598.5,fig|469598.5.peg.4048,ESAG_03674,,Arginine/ornithine antiporter ArcD,1470,489,489,29,91,87,6,430,119,4.00E-28
+Acetobacteraceae bacterium AT-5844,1054213.3,fig|1054213.3.peg.381,HMPREF9946_00400,,Arginine/ornithine antiporter ArcD,1434,477,477,28,96,92,7,443,119,5.00E-28
+Pseudomonas sp. 2_1_26,665948.3,fig|665948.3.peg.4399,HMPREF1030_04464,,"Uncharacterized amino acid permease, GabP family",1419,472,472,27,93,89,2,421,118,7.00E-28
+Pseudomonas sp. P179,1125698.3,fig|1125698.3.peg.4882,HMPREF1224_10292,,"Uncharacterized amino acid permease, GabP family",1419,472,472,27,93,89,2,421,118,7.00E-28
+Klebsiella sp. 1_1_55,469608.3,fig|469608.3.peg.1379,HMPREF0485_01490,,Arginine/ornithine antiporter ArcD,1383,460,460,29,97,95,3,437,118,8.00E-28
+Clostridium difficile NAP07,525258.3,fig|525258.3.peg.1043,HMPREF0219_0058,,"Uncharacterized amino acid permease, GabP family",1320,439,439,25,95,98,6,437,117,9.00E-28
+Lactobacillus reuteri CF48-3A,525341.3,fig|525341.3.peg.641,HMPREF0534_0584,,Arginine/ornithine antiporter ArcD,1422,473,473,26,91,88,2,419,118,9.00E-28
+Clostridium difficile 002-P50-2011,997827.4,fig|997827.4.peg.195,HMPREF1122_00194,,"Uncharacterized amino acid permease, GabP family",1350,449,449,26,91,88,2,398,117,1.00E-27
+Streptococcus parasanguinis CC87K,1073372.3,fig|1073372.3.peg.1191,HMPREF1195_01158,,"Uncharacterized amino acid permease, GabP family",1344,447,447,27,97,97,10,442,117,1.00E-27
+Leptotrichia goodfellowii F0264,596323.3,fig|596323.3.peg.350,HMPREF0554_0991,arcD,Arginine/ornithine antiporter ArcD,1410,469,469,24,89,86,4,407,117,1.00E-27
+Pseudomonas sp. 2_1_26,665948.3,fig|665948.3.peg.2390,HMPREF1030_02389,,Arginine/ornithine antiporter ArcD,1350,449,449,27,82,85,8,390,115,5.00E-27
+Corynebacterium tuscaniense DNF00037,1401064.3,fig|1401064.3.peg.888,HMPREF2129_04500,,Arginine/ornithine antiporter ArcD,1506,501,501,24,98,92,12,472,115,1.00E-26
+Clostridium difficile 70-100-2010,1002369.4,fig|1002369.4.peg.417,HMPREF9945_00434,,"Uncharacterized amino acid permease, GabP family",1350,449,449,25,91,88,2,398,114,1.00E-26
+Pseudomonas sp. P179,1125698.3,fig|1125698.3.peg.3401,HMPREF1224_08817,,Arginine/ornithine antiporter ArcD,1350,449,449,27,82,85,8,390,114,1.00E-26
+Microbacterium sp. oral taxon 186 str. F0373,1203549.3,fig|1203549.3.peg.1920,HMPREF1529_01928,,Arginine/ornithine antiporter ArcD,1440,479,479,28,81,76,16,379,113,3.00E-26
+Lactobacillus reuteri CF48-3A,525341.3,fig|525341.3.peg.408,HMPREF0534_1621,,Arginine/ornithine antiporter ArcD,1398,465,465,26,89,86,40,440,112,9.00E-26
+Actinomyces massiliensis F0489,1125718.3,fig|1125718.3.peg.1005,HMPREF1318_3039,arcD,Arginine/ornithine antiporter ArcD,1458,485,485,26,98,91,14,455,112,1.00E-25
+Clostridium orbiscindens 1_3_50AFAA,742738.3,fig|742738.3.peg.701,HMPREF9460_00671,,Arginine/ornithine antiporter ArcD,1428,475,475,28,85,82,3,392,111,1.00E-25
+Lactobacillus rhamnosus LMS2-1,525361.3,fig|525361.3.peg.194,HMPREF0539_1298,,"Uncharacterized amino acid permease, GabP family",1302,433,433,25,97,99,1,430,111,1.00E-25
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.1437,HMPREF0886_2890,arcD_1,Arginine/ornithine antiporter ArcD,1428,475,475,26,82,79,5,381,111,2.00E-25
+Actinomyces johnsonii F0510,1227262.3,fig|1227262.3.peg.1239,HMPREF1549_01516,,Arginine/ornithine antiporter ArcD,1461,486,486,28,89,84,22,427,111,3.00E-25
+Parvimonas sp. oral taxon 110 str. F0139,767100.3,fig|767100.3.peg.4,HMPREF9126_0018,,"Uncharacterized amino acid permease, GabP family",1329,442,442,26,85,86,3,383,110,3.00E-25
+Clostridium difficile NAP07,525258.3,fig|525258.3.peg.2203,HMPREF0219_1347,,Serine/threonine exchanger SteT,1329,442,442,27,95,97,1,428,108,1.00E-24
+Acidaminococcus sp. D21,563191.3,fig|563191.3.peg.728,ACDG_00714,,"Uncharacterized amino acid permease, GabP family",1314,437,437,26,97,97,1,423,107,4.00E-24
+Acidaminococcus sp. HPA0509,1203555.3,fig|1203555.3.peg.1720,HMPREF1479_01732,,"Uncharacterized amino acid permease, GabP family",1314,437,437,26,97,97,1,423,107,4.00E-24
+Clostridium difficile 002-P50-2011,997827.4,fig|997827.4.peg.2828,HMPREF1122_02898,,Serine/threonine exchanger SteT,1329,442,442,27,95,97,1,428,107,4.00E-24
+Clostridium difficile 70-100-2010,1002369.4,fig|1002369.4.peg.1501,HMPREF9945_01553,,Serine/threonine exchanger SteT,1329,442,442,27,95,97,1,428,107,4.00E-24
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.450,HMPREF0886_1399,arcD_1,Arginine/ornithine antiporter ArcD,1377,458,458,26,95,94,1,429,107,4.00E-24
+Escherichia sp. 3_2_53FAA,469598.5,fig|469598.5.peg.4050,ESAG_03676,,Arginine/ornithine antiporter ArcD,1500,499,499,31,71,68,12,348,106,1.00E-23
+Dorea formicigenerans 4_6_53AFAA,742765.11,fig|742765.11.peg.325,HMPREF9457_00310,,Serine/threonine exchanger SteT,1350,449,449,27,86,84,5,382,106,1.00E-23
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.451,HMPREF0886_1400,arcD_2,Arginine/ornithine antiporter ArcD,1428,475,475,26,82,79,5,381,106,1.00E-23
+Proteus mirabilis WGLW6,1125694.3,fig|1125694.3.peg.1124,HMPREF1311_01152,,Arginine/ornithine antiporter ArcD,1395,464,464,26,92,89,3,417,105,3.00E-23
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.1438,HMPREF0886_2891,arcD_2,Arginine/ornithine antiporter ArcD,1419,472,472,26,79,77,1,362,104,5.00E-23
+Enterococcus faecium ERV102,1134820.3,fig|1134820.3.peg.495,HMPREF1362_00545,,Arginine/ornithine antiporter ArcD,1428,475,475,29,71,70,16,348,104,5.00E-23
+Veillonella sp. ACP1,936588.3,fig|936588.3.peg.634,HMPREF1151_1478,,"Uncharacterized amino acid permease, GabP family",1308,435,435,25,94,95,5,417,104,5.00E-23
+Veillonella atypica strain CMW7756B,39777.1,fig|39777.10.peg.1347,HMPREF3233_01381,,"Uncharacterized amino acid permease, GabP family",1308,435,435,25,94,95,3,417,103,8.00E-23
+Bacillus smithii 7_3_47FAA,665952.3,fig|665952.3.peg.1584,HMPREF1015_01728,,Serine/threonine exchanger SteT,1326,441,441,26,97,98,12,441,103,8.00E-23
+Olsenella uli MSTE5,1190621.3,fig|1190621.3.peg.1091,HMPREF1503_0391,,Arginine/ornithine antiporter ArcD,1446,481,481,25,81,78,1,377,103,1.00E-22
+Escherichia coli MS 124-1,679205.4,fig|679205.4.peg.772,HMPREF9347_00821,,Fructoselysine/psicoselysine transporter FrlA,1338,445,445,29,76,77,1,344,102,1.00E-22
+Escherichia coli MS 145-7,679204.3,fig|679204.3.peg.1776,HMPREF9348_01830,,Fructoselysine/psicoselysine transporter FrlA,1338,445,445,29,76,77,1,344,102,2.00E-22
+Shigella sp. D9,556266.3,fig|556266.3.peg.3545,ShiD9_010100017505,frlA,Fructoselysine/psicoselysine transporter FrlA,1338,445,445,29,76,77,1,344,102,2.00E-22
+Clostridium perfringens WAL-14572,742739.3,fig|742739.3.peg.2105,HMPREF9476_02096,,Arginine/ornithine antiporter ArcD,1446,481,481,27,90,88,3,423,101,5.00E-22
+Clostridium difficile 002-P50-2011,997827.4,fig|997827.4.peg.3627,HMPREF1122_03713,,Serine/threonine exchanger SteT,1314,437,437,25,82,84,18,385,100,1.00E-21
+Clostridium difficile 70-100-2010,1002369.4,fig|1002369.4.peg.3369,HMPREF9945_03490,,Serine/threonine exchanger SteT,1314,437,437,25,82,84,18,385,100,1.00E-21
+Veillonella sp. 3_1_44,457416.3,fig|457416.3.peg.540,HMPREF0873_00531,,"Uncharacterized amino acid permease, GabP family",1308,435,435,24,94,95,3,417,98,5.00E-21
+Streptococcus sanguinis VMC66,888825.3,fig|888825.3.peg.1225,HMPREF9398_1979,,"Uncharacterized amino acid permease, GabP family",1353,450,450,26,86,84,9,386,97,1.00E-20
+Lactobacillus reuteri CF48-3A,525341.3,fig|525341.3.peg.409,HMPREF0534_1622,,Arginine/ornithine antiporter ArcD,1422,473,473,25,82,80,2,378,95,9.00E-20
+Clostridium hathewayi WAL-18680,742737.3,fig|742737.3.peg.1081,HMPREF9473_01076,,"Uncharacterized amino acid permease, GabP family",1335,444,444,26,99,100,1,443,91,2.00E-18
+Bacillus smithii 7_3_47FAA,665952.3,fig|665952.3.peg.965,HMPREF1015_02184,,"Uncharacterized amino acid permease, GabP family",1344,447,447,26,70,71,1,319,89,8.00E-18
+Olsenella uli MSTE5,1190621.3,fig|1190621.3.peg.531,HMPREF1503_1451,,Arginine/ornithine antiporter ArcD,1464,487,487,29,71,71,19,364,89,1.00E-17
+Clostridium sp. MSTE9,1105031.3,fig|1105031.3.peg.1949,HMPREF1141_2681,,Serine/threonine exchanger SteT,1311,436,436,29,76,79,1,343,88,1.00E-17
+Acetobacteraceae bacterium AT-5844,1054213.3,fig|1054213.3.peg.379,HMPREF9946_00398,,Arginine/ornithine antiporter ArcD,1272,423,423,28,83,90,4,382,87,1.00E-17
+Eubacterium infirmum F0142,883109.3,fig|883109.3.peg.224,HMPREF0380_00229,,"Uncharacterized amino acid permease, GabP family",1398,465,465,26,79,77,47,404,87,2.00E-17
+Streptomyces sp. HGB0020,1078086.3,fig|1078086.3.peg.8361,HMPREF1211_08312,,"Uncharacterized amino acid permease, GabP family",1455,484,484,28,80,75,22,383,87,3.00E-17
+Clostridium difficile NAP07,525258.3,fig|525258.3.peg.1574,HMPREF0219_1015,,Serine/threonine exchanger SteT,1314,437,437,25,85,87,7,385,86,5.00E-17
+Klebsiella sp. 1_1_55,469608.3,fig|469608.3.peg.2356,HMPREF0485_01788,,S-methylmethionine permease,1365,454,454,25,86,88,12,412,86,9.00E-17
+Gemella morbillorum M424,562982.3,fig|562982.3.peg.456,HMPREF0432_00452,,"Uncharacterized amino acid permease, GabP family",1317,438,438,27,71,74,6,328,85,1.00E-16
+Klebsiella sp. MS 92-3,749535.4,fig|749535.4.peg.2903,HMPREF9538_03402,,S-methylmethionine permease,1410,469,469,25,86,86,27,427,84,2.00E-16
+Klebsiella pneumoniae subsp. pneumoniae WGLW2,1203545.3,fig|1203545.3.peg.800,HMPREF1306_00792,,S-methylmethionine permease,1410,469,469,25,86,86,27,427,84,2.00E-16
+Clostridiales bacterium S5-A14a,1230734.3,fig|1230734.3.peg.37,HMPREF1635_00200,,Arginine/ornithine antiporter ArcD,1434,477,477,23,98,94,2,447,84,4.00E-16
+Citrobacter sp. 30_2,469595.3,fig|469595.3.peg.998,CSAG_00135,,S-methylmethionine permease,1404,467,467,25,86,86,25,425,83,8.00E-16
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.584,HMPREF0886_0730,arcD,Arginine/ornithine antiporter ArcD,1461,486,486,24,91,88,7,432,83,9.00E-16
+Propionibacterium sp. oral taxon 192 str. F0372,1203605.3,fig|1203605.3.peg.67,HMPREF1531_00072,,gamma-aminobutyrate (GABA) permease,1365,454,454,25,71,71,18,338,82,1.00E-15
+Sutterella wadsworthensis HGA0223,1203554.3,fig|1203554.3.peg.281,HMPREF1476_00303,,Putative amino acid transporter,1410,469,469,24,82,81,1,378,82,1.00E-15
+[Clostridium] citroniae strain AF29-4,358743.5,fig|358743.5.peg.494,DWZ14_02300,,Fructoselysine/psicoselysine transporter FrlA,1359,452,452,28,71,71,17,338,81,2.00E-15
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.507,HMPREF0886_2073,,"Uncharacterized amino acid permease, GabP family",1380,459,459,26,71,71,34,361,81,2.00E-15
+Lactobacillus oris F0423,944562.4,fig|944562.4.peg.1722,HMPREF9102_1010,,Serine/threonine exchanger SteT,1338,445,445,23,87,86,1,382,81,2.00E-15
+Staphylococcus aureus subsp. aureus MRSA131,754025.3,fig|754025.3.peg.999,HMPREF9528_01048,,D-serine/D-alanine/glycine transporter,1362,453,453,27,68,67,82,386,80,5.00E-15
+Staphylococcus aureus subsp. aureus CM05,1134842.3,fig|1134842.3.peg.2099,HMPREF1384_02233,,D-serine/D-alanine/glycine transporter,1362,453,453,27,68,67,82,386,80,5.00E-15
+Lactobacillus reuteri CF48-3A,525341.3,fig|525341.3.peg.1789,HMPREF0534_0913,,"Uncharacterized amino acid permease, GabP family",1392,463,463,25,71,71,36,363,80,7.00E-15
+Staphylococcus lugdunensis M23590,525377.3,fig|525377.3.peg.170,HMPREF0790_0126,cycA,D-serine/D-alanine/glycine transporter,1359,452,452,25,71,70,78,393,79,1.00E-14
+Staphylococcus lugdunensis M23590,525377.3,fig|525377.3.peg.100,HMPREF0790_1179,,Serine/threonine exchanger SteT,1320,439,439,26,72,74,3,327,79,1.00E-14
+Lactobacillus gasseri 224-1,679196.3,fig|679196.3.peg.1605,HMPREF9209_2370,,"Uncharacterized amino acid permease, GabP family",1389,462,462,25,71,71,36,362,79,2.00E-14
+Staphylococcus aureus subsp. aureus MRSA131,754025.3,fig|754025.3.peg.2474,HMPREF9528_02591,,D-serine/D-alanine/glycine transporter,1410,469,469,23,68,66,77,386,78,2.00E-14
+Staphylococcus aureus subsp. aureus CM05,1134842.3,fig|1134842.3.peg.1319,HMPREF1384_01393,,D-serine/D-alanine/glycine transporter,1410,469,469,23,68,66,77,386,78,2.00E-14
+Klebsiella oxytoca 10-5243,883118.3,fig|883118.3.peg.117,HMPREF9687_00120,,S-methylmethionine permease,1410,469,469,23,93,93,27,464,77,5.00E-14
+Staphylococcus aureus subsp. aureus MRSA131,754025.3,fig|754025.3.peg.1316,HMPREF9528_01373,,Serine/threonine exchanger SteT,1323,440,440,27,73,75,1,330,77,5.00E-14
+Staphylococcus aureus subsp. aureus CM05,1134842.3,fig|1134842.3.peg.1816,HMPREF1384_01921,,Serine/threonine exchanger SteT,1323,440,440,27,73,75,1,330,77,5.00E-14
+Oxalobacter formigenes OXCC13,556269.4,fig|556269.4.peg.1889,OFBG_00607,,D-serine/D-alanine/glycine transporter,1449,482,482,25,70,65,91,404,77,6.00E-14
+Pseudomonas sp. HPB0071,1203578.3,fig|1203578.3.peg.1187,HMPREF1487_05497,,"Uncharacterized amino acid permease, GabP family",1392,463,463,25,97,97,11,461,77,7.00E-14
+Staphylococcus haemolyticus DNF00585,1401071.3,fig|1401071.3.peg.1210,HMPREF2135_05985,,D-serine/D-alanine/glycine transporter,1362,453,453,26,69,68,83,388,76,1.00E-13
+Citrobacter sp. 30_2,469595.3,fig|469595.3.peg.4629,CSAG_04638,,Probable transport protein YifK,1386,461,461,27,76,77,65,417,75,1.00E-13
+Streptomyces sp. HGB0020,1078086.3,fig|1078086.3.peg.4111,HMPREF1211_04064,,Amino acid-proton symporter YbeC,1545,514,514,26,80,73,2,375,75,1.00E-13
+Lactobacillus oris F0423,944562.4,fig|944562.4.peg.1060,HMPREF9102_1688,,"Uncharacterized amino acid permease, GabP family",1392,463,463,25,71,71,36,363,75,1.00E-13
+Staphylococcus hominis SK119,629742.3,fig|629742.3.peg.1078,STAHO0001_1822,,D-serine/D-alanine/glycine transporter,1353,450,450,26,69,68,83,388,75,2.00E-13
+Lactobacillus parafarraginis F0439,797515.3,fig|797515.3.peg.2138,HMPREF9103_02369,,"Uncharacterized amino acid permease, GabP family",1392,463,463,23,87,87,21,423,75,2.00E-13
+Staphylococcus hominis SK119,629742.3,fig|629742.3.peg.1525,STAHO0001_0517,,D-serine/D-alanine/glycine transporter,1377,458,458,24,87,85,1,389,75,3.00E-13
+Staphylococcus epidermidis M23864:W1,525378.3,fig|525378.3.peg.2098,HMPREF0793_0530,,D-serine/D-alanine/glycine transporter,1404,467,467,24,64,63,77,370,75,3.00E-13
+Escherichia sp. 3_2_53FAA,469598.5,fig|469598.5.peg.4752,ESAG_04948,,Probable transport protein YifK,1386,461,461,25,96,97,17,461,74,5.00E-13
+Lactobacillus parafarraginis F0439,797515.3,fig|797515.3.peg.2928,HMPREF9103_03221,,D-serine/D-alanine/glycine transporter,1395,464,464,22,86,84,6,396,74,6.00E-13
+Staphylococcus capitis SK14,553212.3,fig|553212.3.peg.1290,STACA0001_0590,,D-serine/D-alanine/glycine transporter,1356,451,451,27,69,69,78,387,74,6.00E-13
+Staphylococcus haemolyticus DNF00585,1401071.3,fig|1401071.3.peg.1112,HMPREF2135_05515,,D-serine/D-alanine/glycine transporter,1410,469,469,23,86,83,2,388,74,7.00E-13
+Bifidobacterium breve HPH0326,1203540.3,fig|1203540.3.peg.1714,HMPREF1482_01716,,Arginine permease RocE,1401,466,466,26,94,95,22,464,72,1.00E-12
+Escherichia coli MS 124-1,679205.4,fig|679205.4.peg.2204,HMPREF9347_02286,,Probable transport protein YifK,1386,461,461,25,96,96,17,460,72,1.00E-12
+Escherichia coli MS 145-7,679204.3,fig|679204.3.peg.3385,HMPREF9348_03492,,Probable transport protein YifK,1386,461,461,25,96,96,17,460,72,1.00E-12
+Shigella sp. D9,556266.3,fig|556266.3.peg.4310,ShiD9_010100021242,,Probable transport protein YifK,1386,461,461,25,96,96,17,460,72,1.00E-12
+Enterococcus faecalis TX2137,749491.3,fig|749491.3.peg.2104,HMPREF9494_02294,,Serine/threonine exchanger SteT,1329,442,442,27,67,68,19,318,72,2.00E-12
+Klebsiella oxytoca 10-5243,883118.3,fig|883118.3.peg.4596,HMPREF9687_04515,,Probable transport protein YifK,1383,460,460,26,92,92,17,441,72,2.00E-12
+Fusobacterium ulcerans 12-1B,457404.5,fig|457404.5.peg.1582,HMPREF0402_01598,,"Uncharacterized amino acid permease, GabP family",1377,458,458,25,73,73,47,381,72,2.00E-12
+Klebsiella oxytoca 10-5243,883118.3,fig|883118.3.peg.115,HMPREF9687_00118,,Ethanolamine permease,1380,459,459,27,77,78,35,393,72,2.00E-12
+Lactobacillus parafarraginis F0439,797515.3,fig|797515.3.peg.615,HMPREF9103_00664,,"Uncharacterized amino acid permease, GabP family",1335,444,444,23,91,91,28,429,72,3.00E-12
+Citrobacter sp. 30_2,469595.3,fig|469595.3.peg.3141,CSAG_03137,,D-serine/D-alanine/glycine transporter,1410,469,469,24,70,67,90,402,72,3.00E-12
+Lactobacillus oris F0423,944562.4,fig|944562.4.peg.1964,HMPREF9102_1258,gadC,Probable glutamate/gamma-aminobutyrate antiporter,1566,521,521,23,67,60,74,384,72,3.00E-12
+Staphylococcus epidermidis M23864:W1,525378.3,fig|525378.3.peg.885,HMPREF0793_2428,,D-serine/D-alanine/glycine transporter,1356,451,451,27,69,69,78,387,71,3.00E-12
+Escherichia coli MS 145-7,679204.3,fig|679204.3.peg.5017,HMPREF9348_05228,,D-serine/D-alanine/glycine transporter,1413,470,470,24,83,80,28,402,71,4.00E-12
+Propionibacterium acnes HL002PA3,765117.3,fig|765117.3.peg.239,HMPREF9615_00258,,Aromatic amino acid transport protein AroP,1359,452,452,24,71,71,17,337,71,4.00E-12
+Rhodococcus erythropolis SK121,596309.3,fig|596309.3.peg.981,RHOER0001_0595,,"Uncharacterized amino acid permease, GabP family",1446,481,481,22,89,84,32,435,71,4.00E-12
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.175,HMPREF0886_0514,,"Uncharacterized amino acid permease, GabP family",1440,479,479,26,75,75,18,376,71,4.00E-12
+Escherichia coli MS 124-1,679205.4,fig|679205.4.peg.1153,HMPREF9347_01212,,D-serine/D-alanine/glycine transporter,1404,467,467,24,70,67,90,402,71,4.00E-12
+Shigella sp. D9,556266.3,fig|556266.3.peg.2663,ShiD9_010100013152,,D-serine/D-alanine/glycine transporter,1413,470,470,24,70,67,90,402,71,5.00E-12
+Staphylococcus capitis SK14,553212.3,fig|553212.3.peg.177,STACA0001_1050,,D-serine/D-alanine/glycine transporter,1404,467,467,24,64,63,77,370,70,6.00E-12
+Staphylococcus lugdunensis M23590,525377.3,fig|525377.3.peg.1483,HMPREF0790_1509,cycA3,D-serine/D-alanine/glycine transporter,1359,452,452,25,64,65,77,370,70,8.00E-12
+Staphylococcus hominis SK119,629742.3,fig|629742.3.peg.1320,STAHO0001_0305,,"Uncharacterized amino acid permease, GabP family",1452,483,483,23,70,69,39,372,70,8.00E-12
+Bacillus smithii 7_3_47FAA,665952.3,fig|665952.3.peg.989,HMPREF1015_02207,,hypothetical protein,1389,462,462,23,72,70,61,382,70,8.00E-12
+Staphylococcus haemolyticus DNF00585,1401071.3,fig|1401071.3.peg.735,HMPREF2135_03650,,D-serine/D-alanine/glycine transporter,1401,466,466,25,64,63,77,370,70,8.00E-12
+Rothia aeria F0474,1125724.3,fig|1125724.3.peg.652,HMPREF1324_1664,,Uncharacterized amino acid permease YtnA,1527,508,508,26,73,67,37,377,70,9.00E-12
+Staphylococcus capitis SK14,553212.3,fig|553212.3.peg.52,STACA0001_0924,,D-serine/D-alanine/glycine transporter,1398,465,465,24,100,98,2,459,70,1.00E-11
+Klebsiella sp. MS 92-3,749535.4,fig|749535.4.peg.4260,HMPREF9538_04972,,Probable transport protein YifK,1386,461,461,25,92,92,17,441,70,1.00E-11
+Klebsiella pneumoniae subsp. pneumoniae WGLW2,1203545.3,fig|1203545.3.peg.4897,HMPREF1306_04848,,Probable transport protein YifK,1386,461,461,25,92,92,17,441,70,1.00E-11
+Peptoniphilus sp. BV3AC2,1111133.4,fig|1111133.4.peg.773,HMPREF1252_0234,,"Uncharacterized amino acid permease, GabP family",1380,459,459,23,72,72,3,334,69,2.00E-11
+Klebsiella sp. 1_1_55,469608.3,fig|469608.3.peg.4994,HMPREF0485_04938,,Probable transport protein YifK,1386,461,461,25,92,92,17,441,69,2.00E-11
+Klebsiella sp. 1_1_55,469608.3,fig|469608.3.peg.2354,HMPREF0485_01787,,Ethanolamine permease,1380,459,459,26,73,72,63,393,69,2.00E-11
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.2095,HMPREF0886_0553,,Serine/threonine exchanger SteT,1326,441,441,27,71,73,21,341,69,2.00E-11
+Klebsiella sp. MS 92-3,749535.4,fig|749535.4.peg.2901,HMPREF9538_03400,,Ethanolamine permease,1380,459,459,26,73,72,63,393,69,2.00E-11
+Actinomyces massiliensis F0489,1125718.3,fig|1125718.3.peg.2177,HMPREF1318_0010,,S-methylmethionine permease,1341,446,446,25,69,71,7,323,69,3.00E-11
+Lactobacillus parafarraginis F0439,797515.3,fig|797515.3.peg.1388,HMPREF9103_01499,,"Uncharacterized amino acid permease, GabP family",1209,402,402,24,71,82,38,368,68,3.00E-11
+Bacillus smithii 7_3_47FAA,665952.3,fig|665952.3.peg.1273,HMPREF1015_01489,,Amino acid-proton symporter YbeC,1629,542,542,28,71,62,4,338,69,3.00E-11
+Klebsiella pneumoniae subsp. pneumoniae WGLW2,1203545.3,fig|1203545.3.peg.798,HMPREF1306_00791,,Ethanolamine permease,1380,459,459,26,73,72,63,393,68,3.00E-11
+Rothia dentocariosa M567,563032.4,fig|563032.4.peg.2148,HMPREF0734_02095,,Uncharacterized amino acid permease YtnA,1545,514,514,26,73,66,43,383,68,4.00E-11
+Staphylococcus lugdunensis M23590,525377.3,fig|525377.3.peg.1625,HMPREF0790_1656,cycA4,D-serine/D-alanine/glycine transporter,1371,456,456,24,80,80,2,364,68,5.00E-11
+Pseudomonas sp. HPB0071,1203578.3,fig|1203578.3.peg.447,HMPREF1487_04755,,Amino acid-proton symporter YbeC,1614,537,537,27,57,51,2,274,68,5.00E-11
+Klebsiella sp. 1_1_55,469608.3,fig|469608.3.peg.4047,HMPREF0485_04008,,D-serine/D-alanine/glycine transporter,1404,467,467,24,83,80,28,402,68,5.00E-11
+Staphylococcus lugdunensis M23590,525377.3,fig|525377.3.peg.1340,HMPREF0790_1361,cycA2,Uncharacterized transporter YbxG,1380,459,459,23,87,86,1,396,67,6.00E-11
+Clostridiales bacterium S5-A11,1230730.3,fig|1230730.3.peg.701,,,"Uncharacterized amino acid permease, GabP family",1461,486,486,23,82,77,73,445,67,7.00E-11
+Klebsiella sp. MS 92-3,749535.4,fig|749535.4.peg.1961,HMPREF9538_02298,,D-serine/D-alanine/glycine transporter,1404,467,467,24,83,80,28,402,67,7.00E-11
+Klebsiella pneumoniae subsp. pneumoniae WGLW2,1203545.3,fig|1203545.3.peg.242,HMPREF1306_00244,,D-serine/D-alanine/glycine transporter,1404,467,467,24,83,80,28,402,67,7.00E-11
+Parvimonas sp. oral taxon 110 str. F0139,767100.3,fig|767100.3.peg.1244,HMPREF9126_1279,,Probable glutamate/gamma-aminobutyrate antiporter,1302,433,433,24,61,66,17,302,67,7.00E-11
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.624,HMPREF0886_2277,,"Uncharacterized amino acid permease, GabP family",1440,479,479,26,75,75,18,376,67,9.00E-11
+Staphylococcus hominis SK119,629742.3,fig|629742.3.peg.565,STAHO0001_1243,,Uncharacterized transporter YbxG,1389,462,462,25,84,82,15,393,67,9.00E-11
+Streptomyces sp. HGB0020,1078086.3,fig|1078086.3.peg.2152,HMPREF1211_02111,,"Uncharacterized amino acid permease, GabP family",1500,499,499,24,71,71,40,392,67,1.00E-10
+Klebsiella pneumoniae subsp. pneumoniae WGLW2,1203545.3,fig|1203545.3.peg.1106,HMPREF1306_01088,,Phenylalanine-specific permease,1377,458,458,23,84,82,27,402,67,1.00E-10
+Enterococcus faecium ERV102,1134820.3,fig|1134820.3.peg.1018,HMPREF1362_01101,,Serine/threonine exchanger SteT,1350,449,449,24,71,73,31,358,66,1.00E-10
+Klebsiella sp. MS 92-3,749535.4,fig|749535.4.peg.1560,HMPREF9538_01834,,Phenylalanine-specific permease,1377,458,458,23,84,82,27,402,66,1.00E-10
+Klebsiella sp. 1_1_55,469608.3,fig|469608.3.peg.2598,HMPREF0485_02027,,Phenylalanine-specific permease,1377,458,458,22,84,82,27,402,66,1.00E-10
+Staphylococcus epidermidis M23864:W1,525378.3,fig|525378.3.peg.1978,HMPREF0793_0410,,Uncharacterized transporter YbxG,1407,468,468,23,100,100,1,466,66,1.00E-10
+Clostridium clostridioforme 2_1_49FAA,742735.4,fig|742735.4.peg.1811,HMPREF9467_01751,,"Agmatine/putrescine antiporter, associated with agmatine catabolism",1443,480,480,26,71,67,74,393,66,1.00E-10
+Acinetobacter radioresistens SK82,596318.3,fig|596318.3.peg.2155,ACIRA0001_0644,,D-serine/D-alanine/glycine transporter,1404,467,467,24,76,72,71,405,66,1.00E-10
+Propionibacterium acnes HL002PA3,765117.3,fig|765117.3.peg.765,HMPREF9615_00808,,D-serine/D-alanine/glycine transporter,1500,499,499,26,78,72,32,390,66,1.00E-10
+Streptococcus parasanguinis CC87K,1073372.3,fig|1073372.3.peg.133,HMPREF1195_00126,,Cationic amino acid transporter - APC Superfamily,1392,463,463,25,73,75,31,376,66,1.00E-10
+Klebsiella oxytoca 10-5243,883118.3,fig|883118.3.peg.414,HMPREF9687_00416,,Phenylalanine-specific permease,1377,458,458,22,84,82,27,402,66,1.00E-10
+Staphylococcus aureus subsp. aureus MRSA131,754025.3,fig|754025.3.peg.2640,HMPREF9528_02769,,"Uncharacterized amino acid permease, GabP family",1449,482,482,22,93,90,39,471,66,1.00E-10
+Staphylococcus aureus subsp. aureus CM05,1134842.3,fig|1134842.3.peg.826,HMPREF1384_00861,,"Uncharacterized amino acid permease, GabP family",1449,482,482,22,93,90,39,471,66,1.00E-10
+Enterococcus faecium ERV102,1134820.3,fig|1134820.3.peg.410,HMPREF1362_00446,,"Uncharacterized amino acid permease, GabP family",1377,458,458,27,60,60,70,346,66,2.00E-10
+Clostridium perfringens WAL-14572,742739.3,fig|742739.3.peg.2218,HMPREF9476_02211,,"Uncharacterized amino acid permease, GabP family",1383,460,460,24,97,95,14,451,66,2.00E-10
+Lactobacillus oris F0423,944562.4,fig|944562.4.peg.656,HMPREF9102_0454,,"Uncharacterized amino acid permease, GabP family",1272,423,423,22,75,78,15,346,65,2.00E-10
+Bifidobacterium adolescentis L2-32,411481.5,fig|411481.5.peg.1394,BIFADO_01589,,Arginine permease RocE,1485,494,494,26,89,84,17,429,65,2.00E-10
+Oscillibacter sp. KLE 1728,1226322.3,fig|1226322.3.peg.551,HMPREF1545_00673,,"Uncharacterized amino acid permease, GabP family",1338,445,445,26,70,73,3,325,65,2.00E-10
+Pseudomonas sp. P179,1125698.3,fig|1125698.3.peg.3785,HMPREF1224_09194,,Arginine/agmatine antiporter,1398,465,465,23,79,77,32,389,65,2.00E-10
+Lactobacillus reuteri CF48-3A,525341.3,fig|525341.3.peg.512,HMPREF0534_1686,,Serine/threonine exchanger SteT,1335,444,444,24,75,76,7,345,65,3.00E-10
+Clostridium perfringens WAL-14572,742739.3,fig|742739.3.peg.1725,HMPREF9476_01713,,Probable glutamate/gamma-aminobutyrate antiporter,1419,472,472,23,73,72,61,402,65,3.00E-10
+Klebsiella oxytoca 10-5243,883118.3,fig|883118.3.peg.5202,HMPREF9687_05105,,D-serine/D-alanine/glycine transporter,1404,467,467,23,70,67,90,402,65,3.00E-10
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.1609,HMPREF0886_1296,,Arginine permease,1410,469,469,24,75,73,1,343,65,4.00E-10
+Anaerostipes sp. 3_2_56FAA,665937.3,fig|665937.3.peg.637,HMPREF1011_00910,,Serine/threonine exchanger SteT,1380,459,459,27,62,61,5,283,65,4.00E-10
+Bacillus smithii 7_3_47FAA,665952.3,fig|665952.3.peg.1573,HMPREF1015_01717,,Amino-acid permease AapA,1362,453,453,24,86,85,2,388,65,5.00E-10
+Ralstonia sp. 5_2_56FAA,658080.3,fig|658080.3.peg.2276,HMPREF0989_02247,,Uncharacterized amino acid permease YhdG,1431,476,476,24,100,96,17,473,65,5.00E-10
+Staphylococcus capitis SK14,553212.3,fig|553212.3.peg.301,STACA0001_1171,,Uncharacterized transporter YbxG,1419,472,472,23,98,97,1,457,65,5.00E-10
+Lactobacillus oris F0423,944562.4,fig|944562.4.peg.930,HMPREF9102_1417,,"Uncharacterized amino acid permease, GabP family",1434,477,477,24,97,96,17,474,64,6.00E-10
+Gemella sanguinis M325,562983.3,fig|562983.3.peg.997,HMPREF0433_01022,,"Uncharacterized amino acid permease, GabP family",1323,440,440,24,56,56,139,385,64,6.00E-10
+Lactobacillus reuteri CF48-3A,525341.3,fig|525341.3.peg.129,HMPREF0534_2044,,"Uncharacterized amino acid permease, GabP family",1023,340,340,24,71,96,13,340,64,7.00E-10
+Staphylococcus haemolyticus DNF00585,1401071.3,fig|1401071.3.peg.622,HMPREF2135_03100,,Uncharacterized transporter YbxG,1389,462,462,25,84,82,15,393,64,7.00E-10
+Pseudomonas sp. P179,1125698.3,fig|1125698.3.peg.4463,HMPREF1224_09871,,Uncharacterized amino acid permease YtnA,1416,471,471,24,71,69,16,338,64,8.00E-10
+Clostridium perfringens WAL-14572,742739.3,fig|742739.3.peg.964,HMPREF9476_00952,,Probable glutamate/gamma-aminobutyrate antiporter,1458,485,485,23,62,60,60,348,64,8.00E-10
+Pseudomonas sp. 2_1_26,665948.3,fig|665948.3.peg.3973,HMPREF1030_04043,,Uncharacterized amino acid permease YtnA,1416,471,471,24,71,69,16,338,64,8.00E-10
+Rhodococcus erythropolis SK121,596309.3,fig|596309.3.peg.1034,RHOER0001_4202,,"Uncharacterized amino acid permease, GabP family",1497,498,498,25,92,87,52,486,64,9.00E-10
+Bacteroides vulgatus CL09T03C04,997891.3,fig|997891.3.peg.1194,HMPREF1058_01136,,"Uncharacterized amino acid permease, GabP family",1659,552,552,22,93,81,39,484,64,1.00E-09
+Paenisporosarcina sp. HGH0030,1078085.3,fig|1078085.3.peg.1732,HMPREF1210_01753,,Uncharacterized amino acid permease YtnA,1386,461,461,26,77,76,19,367,64,1.00E-09
+Actinomyces johnsonii F0510,1227262.3,fig|1227262.3.peg.2074,HMPREF1549_02547,,S-methylmethionine permease,1515,504,504,26,71,65,65,391,64,1.00E-09
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.151,HMPREF0886_0490,,Serine/threonine exchanger SteT,1296,431,431,25,70,74,16,332,63,1.00E-09
+Lactobacillus rhamnosus LMS2-1,525361.3,fig|525361.3.peg.573,HMPREF0539_1691,,"Uncharacterized amino acid permease, GabP family",1395,464,464,24,67,67,38,346,63,1.00E-09
+Selenomonas noxia F0398,702437.3,fig|702437.3.peg.1596,HMPREF9432_01558,,Aromatic amino acid transport protein AroP,1356,451,451,23,73,73,25,353,63,1.00E-09
+Shigella sp. D9,556266.3,fig|556266.3.peg.3349,ShiD9_010100016546,,Phenylalanine-specific permease,1377,458,458,21,81,79,28,390,63,1.00E-09
+Escherichia sp. 3_2_53FAA,469598.5,fig|469598.5.peg.430,ESAG_00635,,Phenylalanine-specific permease,1377,458,458,21,81,79,28,390,63,1.00E-09
+Gemella morbillorum M424,562982.3,fig|562982.3.peg.242,HMPREF0432_00237,,"Uncharacterized amino acid permease, GabP family",1314,437,437,22,96,98,6,434,63,1.00E-09
+Veillonella sp. 3_1_44,457416.3,fig|457416.3.peg.800,HMPREF0873_00793,,Lysine-specific permease,1482,493,493,26,74,70,11,355,63,1.00E-09
+Escherichia coli MS 124-1,679205.4,fig|679205.4.peg.579,HMPREF9347_00613,,Phenylalanine-specific permease,1377,458,458,21,81,79,28,390,63,1.00E-09
+Streptomyces sp. HGB0020,1078086.3,fig|1078086.3.peg.4302,HMPREF1211_04253,,"Uncharacterized amino acid permease, GabP family",1500,499,499,25,73,68,48,385,62,2.00E-09
+Rhodococcus erythropolis SK121,596309.3,fig|596309.3.peg.4871,RHOER0001_2175,,"Uncharacterized amino acid permease, GabP family",1536,511,511,24,85,81,43,455,62,2.00E-09
+Lactobacillus reuteri CF48-3A,525341.3,fig|525341.3.peg.1098,HMPREF0534_1333,,"Uncharacterized amino acid permease, GabP family",1473,490,490,24,72,70,17,361,62,2.00E-09
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.1713,HMPREF0886_0934,,Serine/threonine exchanger SteT,1326,441,441,26,59,61,6,276,62,2.00E-09
+Bacteroides dorei CL02T00C15,997875.3,fig|997875.3.peg.1223,HMPREF1063_01166,,"Uncharacterized amino acid permease, GabP family",1659,552,552,21,93,81,39,484,62,3.00E-09
+Shigella sp. D9,556266.3,fig|556266.3.peg.2855,ShiD9_010100014116,,Aromatic amino acid transport protein AroP,1371,456,456,23,86,84,19,401,62,3.00E-09
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.558,HMPREF0886_0153,,D-serine/D-alanine/glycine transporter,1380,459,459,23,72,72,23,351,62,3.00E-09
+Bifidobacterium adolescentis L2-32,411481.5,fig|411481.5.peg.104,BIFADO_01779,,Probable glutamate/gamma-aminobutyrate antiporter,1389,462,462,25,69,69,50,370,62,3.00E-09
+Proteus mirabilis WGLW6,1125694.3,fig|1125694.3.peg.1561,HMPREF1311_01600,,D-serine/D-alanine/glycine transporter,1413,470,470,23,83,80,27,401,62,3.00E-09
+Escherichia sp. 3_2_53FAA,469598.5,fig|469598.5.peg.3487,ESAG_03768,,D-serine/D-alanine/glycine transporter,1413,470,470,24,83,80,28,402,62,3.00E-09
+Escherichia coli MS 124-1,679205.4,fig|679205.4.peg.2299,HMPREF9347_02390,,Aromatic amino acid transport protein AroP,1371,456,456,23,86,84,19,401,62,4.00E-09
+Escherichia coli MS 145-7,679204.3,fig|679204.3.peg.3233,HMPREF9348_03322,,Aromatic amino acid transport protein AroP,1371,456,456,23,86,84,19,401,62,4.00E-09
+Micrococcus luteus SK58,596312.3,fig|596312.3.peg.1135,HMPREF0569_0303,,Histidine transport protein (permease),1467,488,488,25,67,63,80,387,62,4.00E-09
+Staphylococcus epidermidis M23864:W1,525378.3,fig|525378.3.peg.1470,HMPREF0793_0661,,D-serine/D-alanine/glycine transporter,1398,465,465,24,86,83,2,388,62,4.00E-09
+Enterococcus faecium ERV102,1134820.3,fig|1134820.3.peg.1821,HMPREF1362_01941,,Serine/threonine exchanger SteT,1323,440,440,26,68,70,18,327,62,4.00E-09
+Sutterella wadsworthensis HGA0223,1203554.3,fig|1203554.3.peg.624,HMPREF1476_00637,,"Uncharacterized amino acid permease, GabP family",1656,551,551,26,68,57,102,415,62,4.00E-09
+Proteus mirabilis WGLW6,1125694.3,fig|1125694.3.peg.1543,HMPREF1311_01582,,Aromatic amino acid transport protein AroP,1383,460,460,22,70,69,19,335,62,4.00E-09
+Streptococcus vestibularis F0396,904306.3,fig|904306.3.peg.1421,HMPREF9192_1313,,S-methylmethionine permease,1377,458,458,25,75,75,27,369,62,4.00E-09
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.720,HMPREF0886_3058,,D-serine/D-alanine/glycine transporter,1377,458,458,23,83,82,23,396,62,5.00E-09
+Bacteroides salyersiae CL02T12C01,997887.3,fig|997887.3.peg.945,HMPREF1071_00910,,Glutamate/gamma-aminobutyrate antiporter,1629,542,542,26,41,34,214,399,61,6.00E-09
+Alloscardovia omnicolens strain CMW7705A,419015.3,fig|419015.3.peg.328,HMPREF3214_00343,,Amino acid permease-associated region precursor,1482,493,493,23,74,76,15,390,61,6.00E-09
+Pseudomonas sp. HPB0071,1203578.3,fig|1203578.3.peg.4200,HMPREF1487_08481,,Amino acid permease in 4-hydroxyproline catabolic gene cluster,1635,544,544,25,60,50,9,282,61,6.00E-09
+Akkermansia sp. KLE1605,1131336.3,fig|1131336.3.peg.2209,HMPREF1326_02273,,Probable glutamate/gamma-aminobutyrate antiporter,1449,482,482,23,74,72,45,389,61,6.00E-09
+Streptococcus salivarius SK126,596322.3,fig|596322.3.peg.1778,STRSA0001_0857,,S-methylmethionine permease,1377,458,458,25,75,75,27,369,61,6.00E-09
+Lactobacillus reuteri CF48-3A,525341.3,fig|525341.3.peg.99,HMPREF0534_2008,,"Uncharacterized amino acid permease, GabP family",1356,451,451,22,74,74,6,338,61,7.00E-09
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.1004,HMPREF0886_1540,,Serine/threonine exchanger SteT,1296,431,431,29,46,48,121,329,61,7.00E-09
+Alloscardovia omnicolens strain CMW7705A,419015.3,fig|419015.3.peg.357,HMPREF3214_00376,,Amino acid permease-associated region precursor,1395,464,464,23,70,77,10,365,61,7.00E-09
+Bacteroides fragilis 3_1_12,457424.5,fig|457424.5.peg.2437,Bfra3_010100012140,,Glutamate/gamma-aminobutyrate antiporter,1587,528,528,22,80,70,29,399,61,8.00E-09
+Escherichia coli MS 124-1,679205.4,fig|679205.4.peg.4586,HMPREF9347_04755,,Probable glutamate/gamma-aminobutyrate antiporter,1536,511,511,25,72,67,62,401,61,8.00E-09
+Escherichia coli MS 145-7,679204.3,fig|679204.3.peg.3280,HMPREF9348_03373,,Probable glutamate/gamma-aminobutyrate antiporter,1536,511,511,25,72,67,62,401,61,8.00E-09
+Shigella sp. D9,556266.3,fig|556266.3.peg.304,ShiD9_010100005202,,Probable glutamate/gamma-aminobutyrate antiporter,1536,511,511,25,72,67,62,401,61,8.00E-09
+Proteus mirabilis WGLW6,1125694.3,fig|1125694.3.peg.1348,HMPREF1311_01381,,Probable glutamate/gamma-aminobutyrate antiporter,1554,517,517,24,70,62,71,391,61,8.00E-09
+Escherichia sp. 3_2_53FAA,469598.5,fig|469598.5.peg.3897,ESAG_04143,,Aromatic amino acid transport protein AroP,1371,456,456,23,86,84,19,401,61,8.00E-09
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.884,HMPREF0886_0271,,"Uncharacterized amino acid permease, GabP family",1380,459,459,30,31,30,226,361,61,8.00E-09
+Fusobacterium nucleatum subsp. polymorphum F0401,693991.3,fig|693991.3.peg.1180,HMPREF9369_01162,,Probable glutamate/gamma-aminobutyrate antiporter,1440,479,479,24,74,72,74,417,61,8.00E-09
+Clostridium sp. 7_2_43FAA,457396.3,fig|457396.3.peg.936,CSBG_01150,,"Uncharacterized amino acid permease, GabP family",1332,443,443,25,69,70,2,312,61,8.00E-09
+Escherichia coli MS 145-7,679204.3,fig|679204.3.peg.5116,HMPREF9348_05324,,Phenylalanine-specific permease,1377,458,458,21,81,79,28,390,60,1.00E-08
+Lactobacillus gasseri 224-1,679196.3,fig|679196.3.peg.1417,HMPREF9209_1100,,"Uncharacterized amino acid permease, GabP family",993,330,330,23,50,69,3,231,60,1.00E-08
+Lactobacillus oris F0423,944562.4,fig|944562.4.peg.1379,HMPREF9102_0804,,"Uncharacterized amino acid permease, GabP family",1434,477,477,25,73,72,38,380,60,1.00E-08
+Ralstonia sp. 5_2_56FAA,658080.3,fig|658080.3.peg.223,HMPREF0989_00216,,Amino acid-proton symporter YbeC,1647,548,548,26,67,59,20,341,60,1.00E-08
+Acinetobacter radioresistens SK82,596318.3,fig|596318.3.peg.2185,ACIRA0001_0678,,"Uncharacterized amino acid permease, GabP family",1389,462,462,25,70,71,24,349,60,1.00E-08
+Lactobacillus oris F0423,944562.4,fig|944562.4.peg.223,HMPREF9102_2016,cycA,D-serine/D-alanine/glycine transporter,1356,451,451,21,84,83,18,390,60,1.00E-08
+Gemella sanguinis M325,562983.3,fig|562983.3.peg.483,HMPREF0433_00497,,"Uncharacterized amino acid permease, GabP family",1314,437,437,22,71,74,6,328,60,1.00E-08
+Bacillus smithii 7_3_47FAA,665952.3,fig|665952.3.peg.1285,HMPREF1015_01501,,"Uncharacterized amino acid permease, GabP family",1341,446,446,24,81,79,5,356,60,1.00E-08
+Lactobacillus gasseri 224-1,679196.3,fig|679196.3.peg.1,HMPREF9209_1489,,"Uncharacterized amino acid permease, GabP family",1398,465,465,23,71,72,35,369,60,1.00E-08
+Clostridiales bacterium S5-A11,1230730.3,fig|1230730.3.peg.493,HMPREF1633_02485,,"Uncharacterized amino acid permease, GabP family",1416,471,471,22,95,91,34,461,60,1.00E-08
+Gemella haemolysans M341,562981.3,fig|562981.3.peg.1344,HMPREF0428_01363,,"Uncharacterized amino acid permease, GabP family",1314,437,437,22,96,98,6,434,60,1.00E-08
+Lactobacillus oris F0423,944562.4,fig|944562.4.peg.1219,HMPREF9102_1852,steT,Serine/threonine exchanger SteT,1329,442,442,25,69,69,21,326,59,2.00E-08
+Bacteroides fragilis 3_1_12,457424.5,fig|457424.5.peg.10,Bfra3_010100000050,,"Uncharacterized amino acid permease, GabP family",1656,551,551,24,80,69,39,418,60,2.00E-08
+Citrobacter sp. 30_2,469595.3,fig|469595.3.peg.1214,CSAG_00350,,Phenylalanine-specific permease,1440,479,479,23,83,78,47,420,59,2.00E-08
+Fusobacterium nucleatum subsp. animalis D11,556264.3,fig|556264.3.peg.790,PrD11_010100004441,,Probable glutamate/gamma-aminobutyrate antiporter,1440,479,479,23,75,73,74,424,59,2.00E-08
+Citrobacter sp. 30_2,469595.3,fig|469595.3.peg.3424,CSAG_03411,,Aromatic amino acid transport protein AroP,1371,456,456,23,86,84,4,387,59,2.00E-08
+Rothia dentocariosa M567,563032.4,fig|563032.4.peg.1596,HMPREF0734_01555,,D-serine/D-alanine/glycine transporter,1464,487,487,23,78,74,31,389,59,2.00E-08
+Clostridiales bacterium S5-A11,1230730.3,fig|1230730.3.peg.968,HMPREF1633_04905,,hypothetical protein,1374,457,457,25,71,71,1,326,59,2.00E-08
+Gemella haemolysans M341,562981.3,fig|562981.3.peg.489,HMPREF0428_00492,,"Uncharacterized amino acid permease, GabP family",1317,438,438,23,56,56,139,383,59,3.00E-08
+Acinetobacter radioresistens SK82,596318.3,fig|596318.3.peg.1182,ACIRA0001_1682,eat,Small molecule diffusion facilitator (permease),1437,478,478,26,74,67,81,400,59,3.00E-08
+Citrobacter sp. 30_2,469595.3,fig|469595.3.peg.3217,CSAG_03215,,Amino acid permease in 4-hydroxyproline catabolic gene cluster,1602,533,533,26,56,48,21,275,59,3.00E-08
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.1400,HMPREF0886_1004,,Arginine permease,1410,469,469,23,75,73,1,343,59,3.00E-08
+Olsenella uli MSTE5,1190621.3,fig|1190621.3.peg.793,HMPREF1503_1513,,"Agmatine/putrescine antiporter, associated with agmatine catabolism",1455,484,484,26,74,70,29,367,59,3.00E-08
+Gemella asaccharolytica strain KA00071,502393.3,fig|502393.3.peg.194,HMPREF1871_00196,,"Uncharacterized amino acid permease, GabP family",1371,456,456,25,73,75,38,378,59,3.00E-08
+Stomatobaculum longum strain ACC2,796942.3,fig|796942.3.peg.872,HMPREF9623_00862,,Arginine permease,1386,461,461,25,81,81,2,373,59,4.00E-08
+Clostridium difficile 002-P50-2011,997827.4,fig|997827.4.peg.863,HMPREF1122_00877,,"Agmatine/putrescine antiporter, associated with agmatine catabolism",1404,467,467,22,72,72,70,404,59,4.00E-08
+Clostridium difficile 70-100-2010,1002369.4,fig|1002369.4.peg.3519,HMPREF9945_03640,,"Agmatine/putrescine antiporter, associated with agmatine catabolism",1404,467,467,22,72,72,70,404,59,4.00E-08
+Enterococcus faecalis TX2137,749491.3,fig|749491.3.peg.2265,HMPREF9494_02490,,"Agmatine/putrescine antiporter, associated with agmatine catabolism",1377,458,458,26,43,42,192,385,59,4.00E-08
+Enterococcus faecalis TX2137,749491.3,fig|749491.3.peg.1031,HMPREF9494_01093,,"Uncharacterized amino acid permease, GabP family",1392,463,463,27,33,32,215,362,59,4.00E-08
+Dorea formicigenerans 4_6_53AFAA,742765.11,fig|742765.11.peg.1864,HMPREF9457_01775,,Small molecule diffusion facilitator (permease),1383,460,460,25,60,58,66,330,59,4.00E-08
+Pseudomonas sp. HPB0071,1203578.3,fig|1203578.3.peg.1425,HMPREF1487_05730,,"Uncharacterized amino acid permease MSMEG_6727, GabP family",1326,441,441,27,68,68,23,324,59,4.00E-08
+Streptomyces sp. HGB0020,1078086.3,fig|1078086.3.peg.5310,HMPREF1211_05255,,gamma-aminobutyrate (GABA) permease,1434,477,477,26,87,83,13,406,59,4.00E-08
+Bacteroides fragilis CL07T00C01,997882.3,fig|997882.3.peg.2310,HMPREF1055_02232,,"Uncharacterized amino acid permease, GabP family",1668,555,555,24,80,68,39,418,59,5.00E-08
+Rothia dentocariosa M567,563032.4,fig|563032.4.peg.2147,HMPREF0734_02094,,Putative amino acid permease,1455,484,484,25,74,71,29,373,59,5.00E-08
+Staphylococcus hominis SK119,629742.3,fig|629742.3.peg.441,STAHO0001_1120,,D-serine/D-alanine/glycine transporter,1401,466,466,24,64,63,77,370,59,5.00E-08
+Propionibacterium propionicum F0230a,767029.3,fig|767029.3.peg.1505,HMPREF9154_1546,cycA_2,D-serine/D-alanine/glycine transporter,1404,467,467,24,70,67,89,401,58,5.00E-08
+Enterococcus faecium ERV102,1134820.3,fig|1134820.3.peg.2849,HMPREF1362_03074,,Uncharacterized transporter YbxG,1371,456,456,22,89,91,1,416,58,5.00E-08
+Veillonella sp. ACP1,936588.3,fig|936588.3.peg.1079,HMPREF1151_0804,lysP,Lysine-specific permease,1482,493,493,25,71,67,28,355,58,6.00E-08
+Bacteroides caccae CL03T12C61,997873.3,fig|997873.3.peg.4700,HMPREF1061_04503,,Glutamate/gamma-aminobutyrate antiporter,1611,536,536,25,41,35,214,399,58,6.00E-08
+Lactobacillus gasseri 224-1,679196.3,fig|679196.3.peg.1610,HMPREF9209_2376,,Arginine permease,1401,466,466,24,51,51,2,239,58,6.00E-08
+Veillonella atypica strain CMW7756B,39777.1,fig|39777.10.peg.1866,HMPREF3233_01900,,Lysine-specific permease,1482,493,493,25,71,67,28,355,58,6.00E-08
+Staphylococcus aureus subsp. aureus CM05,1134842.3,fig|1134842.3.peg.1307,HMPREF1384_01381,,Amino acid-proton symporter YbeC,1638,545,545,24,82,71,1,385,58,7.00E-08
+Rhodococcus erythropolis SK121,596309.3,fig|596309.3.peg.2147,RHOER0001_5945,eat,Ethanolamine permease,1473,490,490,25,86,79,83,469,58,7.00E-08
+Clostridium difficile NAP07,525258.3,fig|525258.3.peg.1432,HMPREF0219_0871,,"Agmatine/putrescine antiporter, associated with agmatine catabolism",1404,467,467,22,72,72,70,404,58,7.00E-08
+Acinetobacter radioresistens SK82,596318.3,fig|596318.3.peg.2168,ACIRA0001_0657,,"Uncharacterized amino acid permease, GabP family",1488,495,495,24,73,70,55,399,58,7.00E-08
+Acinetobacter radioresistens SK82,596318.3,fig|596318.3.peg.706,ACIRA0001_0931,,Aromatic amino acid transport protein AroP,1353,450,450,21,75,76,1,344,58,7.00E-08
+Klebsiella sp. MS 92-3,749535.4,fig|749535.4.peg.4202,HMPREF9538_04903,,Aromatic amino acid transport protein AroP,1371,456,456,22,89,87,4,400,58,8.00E-08
+Klebsiella pneumoniae subsp. pneumoniae WGLW2,1203545.3,fig|1203545.3.peg.603,HMPREF1306_00599,,Aromatic amino acid transport protein AroP,1371,456,456,22,89,87,4,400,58,8.00E-08
+Staphylococcus capitis SK14,553212.3,fig|553212.3.peg.21,STACA0001_0893,,"Uncharacterized amino acid permease, GabP family",1449,482,482,21,93,91,39,475,58,8.00E-08
+Staphylococcus aureus subsp. aureus MRSA131,754025.3,fig|754025.3.peg.1420,HMPREF9528_01477,,Uncharacterized transporter YbxG,1380,459,459,23,97,99,1,453,58,8.00E-08
+Selenomonas sp. oral taxon 137 str. F0430,879310.3,fig|879310.3.peg.1332,HMPREF9162_2328,aroP,Aromatic amino acid transport protein AroP,1353,450,450,23,69,70,25,337,58,8.00E-08
+Bacillus smithii 7_3_47FAA,665952.3,fig|665952.3.peg.382,HMPREF1015_01244,,"Uncharacterized amino acid permease, GabP family",1395,464,464,23,73,73,24,361,58,8.00E-08
+Bacteroides ovatus 3_8_47FAA,665954.3,fig|665954.3.peg.4462,HMPREF1017_04354,,Glutamate/gamma-aminobutyrate antiporter,1728,575,575,26,41,32,214,399,58,8.00E-08
+Fusobacterium ulcerans 12-1B,457404.5,fig|457404.5.peg.3025,HMPREF0402_03633,,"Uncharacterized amino acid permease, GabP family",1332,443,443,25,65,67,2,297,57,1.00E-07
+Veillonella sp. ACP1,936588.3,fig|936588.3.peg.189,HMPREF1151_0581,cycA,Amino-acid permease AapA,1446,481,481,26,80,76,2,365,57,1.00E-07
+Veillonella atypica strain CMW7756B,39777.1,fig|39777.10.peg.773,HMPREF3233_00788,,Amino-acid permease AapA,1446,481,481,26,80,76,2,365,57,1.00E-07
+Corynebacterium tuscaniense DNF00037,1401064.3,fig|1401064.3.peg.1417,,,hypothetical protein,1296,431,431,23,71,74,5,321,57,1.00E-07
+Proteus mirabilis WGLW6,1125694.3,fig|1125694.3.peg.2144,HMPREF1311_02186,,Histidine transport protein (permease),1368,455,455,23,69,70,16,332,57,1.00E-07
+Bacteroides sp. 2_1_22,469588.3,fig|469588.3.peg.4060,HMPREF0102_04090,,Glutamate/gamma-aminobutyrate antiporter,1692,563,563,25,41,33,214,399,57,1.00E-07
+Bifidobacterium adolescentis L2-32,411481.5,fig|411481.5.peg.378,BIFADO_00256,,Aromatic amino acid transport protein AroP,1530,509,509,22,71,65,31,362,57,1.00E-07
+Streptococcus gallolyticus subsp. gallolyticus TX20005,545774.3,fig|545774.3.peg.813,HMPREF9352_1258,lysP,S-methylmethionine permease,1377,458,458,24,75,75,27,369,57,1.00E-07
+Bacteroides stercoris CC31F,1073351.3,fig|1073351.3.peg.2217,HMPREF1181_02202,,Glutamate/gamma-aminobutyrate antiporter,1617,538,538,21,80,69,29,399,57,1.00E-07
+Rothia dentocariosa M567,563032.4,fig|563032.4.peg.1833,HMPREF0734_01785,,Histidine transport protein (permease),1443,480,480,24,80,75,39,397,57,1.00E-07
+Bacteroides fragilis CL07T00C01,997882.3,fig|997882.3.peg.2443,HMPREF1055_02355,,Glutamate/gamma-aminobutyrate antiporter,1599,532,532,25,41,35,214,399,57,2.00E-07
+Bacteroides finegoldii CL09T03C10,997888.3,fig|997888.3.peg.4172,,,Glutamate/gamma-aminobutyrate antiporter,1650,549,549,25,41,34,214,399,57,2.00E-07
+Streptococcus sanguinis VMC66,888825.3,fig|888825.3.peg.88,HMPREF9398_0830,,Cationic amino acid transporter - APC Superfamily,1401,466,466,25,77,80,6,376,56,2.00E-07
+Bacteroides eggerthii 1_2_48FAA,665953.3,fig|665953.3.peg.479,HMPREF1016_00446,,Glutamate/gamma-aminobutyrate antiporter,1494,497,497,24,41,37,214,399,56,2.00E-07
+Staphylococcus lugdunensis M23590,525377.3,fig|525377.3.peg.185,HMPREF0790_0141,lysP,Lysine-specific permease,1494,497,497,26,75,71,20,374,56,2.00E-07
+Klebsiella sp. 1_1_55,469608.3,fig|469608.3.peg.4356,HMPREF0485_04308,,Aromatic amino acid transport protein AroP,1371,456,456,22,86,84,4,387,56,2.00E-07
+Ralstonia sp. 5_2_56FAA,658080.3,fig|658080.3.peg.2716,HMPREF0989_02687,,Histidine transport protein (permease),1383,460,460,24,78,77,13,367,56,2.00E-07
+Parabacteroides merdae CL09T00C40,999421.3,fig|999421.3.peg.2049,HMPREF1078_01993,,"Uncharacterized amino acid permease, GabP family",1656,551,551,21,93,81,39,484,56,2.00E-07
+Parabacteroides johnsonii CL02T12C29,999419.3,fig|999419.3.peg.1670,HMPREF1077_01633,,Glutamate/gamma-aminobutyrate antiporter,1587,528,528,24,41,35,214,399,56,2.00E-07
+Klebsiella oxytoca 10-5243,883118.3,fig|883118.3.peg.4783,HMPREF9687_04698,,Aromatic amino acid transport protein AroP,1368,455,455,22,89,87,4,400,56,3.00E-07
+Veillonella sp. 3_1_44,457416.3,fig|457416.3.peg.1024,HMPREF0873_01020,,Amino-acid permease AapA,1443,480,480,25,87,81,2,391,56,3.00E-07
+Rothia aeria F0474,1125724.3,fig|1125724.3.peg.1998,HMPREF1324_0434,,Histidine transport protein (permease),1422,473,473,23,84,82,41,428,56,3.00E-07
+Pseudomonas sp. HPB0071,1203578.3,fig|1203578.3.peg.4582,HMPREF1487_08852,,"Uncharacterized amino acid permease, GabP family",1323,440,440,22,67,68,36,332,56,3.00E-07
+Gardnerella vaginalis JCP7275,1261057.4,fig|1261057.4.peg.803,HMPREF1572_00894,,Amino acid permease-associated region precursor,1632,543,543,23,71,64,76,420,56,3.00E-07
+Citrobacter sp. 30_2,469595.3,fig|469595.3.peg.2007,CSAG_01150,,Urea carboxylase-related amino acid permease,1482,493,493,23,69,64,46,362,55,4.00E-07
+Staphylococcus epidermidis M23864:W1,525378.3,fig|525378.3.peg.1503,HMPREF0793_0694,,"Uncharacterized amino acid permease, GabP family",1452,483,483,22,93,91,39,476,55,4.00E-07
+Parabacteroides johnsonii CL02T12C29,999419.3,fig|999419.3.peg.1263,HMPREF1077_01236,,"Uncharacterized amino acid permease, GabP family",1656,551,551,22,93,81,39,484,56,4.00E-07
+Lactobacillus reuteri CF48-3A,525341.3,fig|525341.3.peg.300,HMPREF0534_0393,,D-serine/D-alanine/glycine transporter,1350,449,449,22,72,73,18,346,55,4.00E-07
+Streptococcus sp. CM7,936581.3,fig|936581.3.peg.1268,HMPREF1511_0443,,Cationic amino acid transporter - APC Superfamily,1389,462,462,27,73,75,31,376,55,4.00E-07
+Streptococcus anginosus F0211,706437.3,fig|706437.3.peg.622,HMPREF0813_00657,,Cationic amino acid transporter - APC Superfamily,1389,462,462,27,73,75,31,376,55,4.00E-07
+Klebsiella oxytoca 10-5243,883118.3,fig|883118.3.peg.696,HMPREF9687_00697,,Histidine transport protein (permease),1383,460,460,23,86,83,24,405,55,4.00E-07
+Clostridium perfringens WAL-14572,742739.3,fig|742739.3.peg.826,HMPREF9476_00817,,Lysine-specific permease,1470,489,489,25,73,68,1,333,55,4.00E-07
+Staphylococcus epidermidis M23864:W1,525378.3,fig|525378.3.peg.2115,HMPREF0793_0547,,Amino acid-proton symporter YbeC,1680,559,559,23,82,68,4,385,55,4.00E-07
+Lactobacillus rhamnosus LMS2-1,525361.3,fig|525361.3.peg.2130,HMPREF0539_2890,,"Uncharacterized amino acid permease, GabP family",1482,493,493,23,75,74,18,380,55,5.00E-07
+Rothia aeria F0474,1125724.3,fig|1125724.3.peg.651,HMPREF1324_1663,,Putative amino acid permease,1461,486,486,25,71,67,31,356,55,5.00E-07
+Parabacteroides merdae CL09T00C40,999421.3,fig|999421.3.peg.1350,HMPREF1078_01326,,Glutamate/gamma-aminobutyrate antiporter,1581,526,526,24,41,35,214,399,55,5.00E-07
+Alloscardovia omnicolens strain CMW7705A,419015.3,fig|419015.3.peg.173,HMPREF3214_00184,,L-asparagine permease,1476,491,491,24,72,68,32,365,55,6.00E-07
+Klebsiella sp. 1_1_55,469608.3,fig|469608.3.peg.4115,HMPREF0485_04074,,L-methionine and branched-chain amino acid export protein YjeH,1290,429,429,27,51,52,31,253,55,6.00E-07
+Propionibacterium sp. oral taxon 192 str. F0372,1203605.3,fig|1203605.3.peg.250,HMPREF1531_00249,,D-serine/D-alanine/glycine transporter,1440,479,479,24,81,78,14,386,55,6.00E-07
+Lactobacillus reuteri CF48-3A,525341.3,fig|525341.3.peg.1750,HMPREF0534_1819,,S-methylmethionine permease,1404,467,467,24,78,76,8,364,55,6.00E-07
+Microbacterium sp. oral taxon 186 str. F0373,1203549.3,fig|1203549.3.peg.620,HMPREF1529_00611,,L-asparagine permease,1572,523,523,23,80,72,35,409,55,8.00E-07
+Staphylococcus haemolyticus DNF00585,1401071.3,fig|1401071.3.peg.1585,HMPREF2135_07820,,"Uncharacterized amino acid permease, GabP family",1452,483,483,23,82,78,39,416,54,0
+Pseudomonas sp. P179,1125698.3,fig|1125698.3.peg.2018,HMPREF1224_07457,,Ethanolamine permease,1449,482,482,25,66,63,59,363,54,0
+Klebsiella sp. 1_1_55,469608.3,fig|469608.3.peg.1885,HMPREF0485_02275,,Histidine transport protein (permease),1383,460,460,24,80,78,24,381,54,0
+Alloscardovia omnicolens strain CMW7705A,419015.3,fig|419015.3.peg.748,HMPREF3214_00777,,"Uncharacterized amino acid permease, GabP family",1434,477,477,23,77,75,10,366,54,0
+Gemella haemolysans M341,562981.3,fig|562981.3.peg.1626,HMPREF0428_01648,,"Uncharacterized amino acid permease, GabP family",1371,456,456,24,71,71,36,361,54,0
+Pseudomonas sp. 2_1_26,665948.3,fig|665948.3.peg.192,HMPREF1030_00186,,Ethanolamine permease,1449,482,482,25,66,63,59,363,54,0
+Propionibacterium sp. oral taxon 192 str. F0372,1203605.3,fig|1203605.3.peg.284,HMPREF1531_00284,,Probable glutamate/gamma-aminobutyrate antiporter,1548,515,515,23,72,64,106,434,54,0
+Streptococcus intermedius F0413,883167.4,fig|883167.4.peg.881,HMPREF9177_00862,,Cationic amino acid transporter - APC Superfamily,1389,462,462,25,73,75,31,376,54,0
+Leptotrichia goodfellowii F0264,596323.3,fig|596323.3.peg.296,HMPREF0554_0387,,hypothetical protein,1329,442,442,26,67,67,19,312,53,0
+Citrobacter sp. 30_2,469595.3,fig|469595.3.peg.1046,CSAG_00183,,Proline-specific permease ProY,1374,457,457,22,69,69,16,331,53,0
+Veillonella montpellierensis DNF00314,1401067.3,fig|1401067.3.peg.250,HMPREF0872_01310,,Aromatic amino acid transport protein AroP,1374,457,457,20,88,86,6,399,53,0
+Acinetobacter radioresistens SK82,596318.3,fig|596318.3.peg.754,ACIRA0001_0982,,Putrescine importer,1392,463,463,23,47,47,54,269,53,0
+Escherichia sp. 3_2_53FAA,469598.5,fig|469598.5.peg.3414,ESAG_03691,,L-methionine and branched-chain amino acid export protein YjeH,1257,418,418,27,52,54,6,232,53,0
+Bifidobacterium sp. 12_1_47BFAA,469594.3,fig|469594.3.peg.1061,HMPREF0177_01039,,Aromatic amino acid transport protein AroP,1482,493,493,23,71,68,31,364,53,0
+Streptococcus sobrinus W1703,1227275.3,fig|1227275.3.peg.788,HMPREF1557_00890,,Cationic amino acid transporter - APC Superfamily,1389,462,462,23,77,78,17,378,53,0
+Enterococcus faecium ERV102,1134820.3,fig|1134820.3.peg.2128,HMPREF1362_02274,,Probable glutamate/gamma-aminobutyrate antiporter,1182,393,393,24,30,35,131,269,53,0
+Gemella asaccharolytica strain KA00071,502393.3,fig|502393.3.peg.65,HMPREF1871_00065,,Lysine-specific permease,1467,488,488,23,75,73,16,372,53,0
+Streptococcus downei F0415,904293.3,fig|904293.3.peg.749,HMPREF9176_1496,,S-methylmethionine permease,1374,457,457,23,75,75,27,368,53,0
+Actinomyces urogenitalis S6-C4,1284679.3,fig|1284679.3.peg.839,,,L-asparagine permease,1458,485,485,26,71,68,36,367,53,0
+Pseudomonas sp. 2_1_26,665948.3,fig|665948.3.peg.646,HMPREF1030_00635,,"Uncharacterized amino acid permease, GabP family",1323,440,440,21,71,72,56,373,53,0
+Pseudomonas sp. 2_1_26,665948.3,fig|665948.3.peg.2313,HMPREF1030_02312,,Histidine transport protein (permease),1404,467,467,24,69,68,16,334,53,0
+Klebsiella oxytoca 10-5243,883118.3,fig|883118.3.peg.5268,HMPREF9687_05171,,Inner membrane protein YjeH,1221,406,406,26,52,55,3,227,53,0
+Pseudomonas sp. P179,1125698.3,fig|1125698.3.peg.3479,HMPREF1224_08894,,Histidine transport protein (permease),1404,467,467,24,69,68,16,334,53,0
+Staphylococcus hominis SK119,629742.3,fig|629742.3.peg.424,STAHO0001_1103,,Amino acid-proton symporter YbeC,1644,547,547,22,82,70,1,383,53,0
+Staphylococcus lugdunensis M23590,525377.3,fig|525377.3.peg.1870,HMPREF0790_1905,,Amino acid-proton symporter YbeC,1632,543,543,21,82,71,1,383,53,0
+Bacteroides cellulosilyticus CL02T12C19,997874.3,fig|997874.3.peg.1584,HMPREF1062_01549,,Glutamate/gamma-aminobutyrate antiporter,1590,529,529,23,41,35,214,399,53,0
+Bifidobacterium breve HPH0326,1203540.3,fig|1203540.3.peg.628,HMPREF1482_00643,,Uncharacterized amino acid permease YhdG,1458,485,485,25,62,62,72,371,52,0
+Dermabacter sp. HFH0086,1203568.3,fig|1203568.3.peg.560,HMPREF1484_00573,,Phenylalanine-specific permease,1371,456,456,24,71,72,7,335,52,0
+Streptococcus downei F0415,904293.3,fig|904293.3.peg.29,HMPREF9176_0631,,"Agmatine/putrescine antiporter, associated with agmatine catabolism",1353,450,450,25,32,32,192,336,52,0
+Actinomyces neuii strain MJR8396A,33007.3,fig|33007.3.peg.1500,HMPREF3198_01533,,hypothetical protein,1392,463,463,24,75,73,52,391,52,0
+Lactobacillus parafarraginis F0439,797515.3,fig|797515.3.peg.625,HMPREF9103_00675,,Amino acid-proton symporter YbeC,1599,532,532,25,82,72,1,382,52,0
+Pseudomonas sp. P179,1125698.3,fig|1125698.3.peg.3601,HMPREF1224_09011,,Arginine permease RocE,1413,470,470,24,69,68,25,342,52,0
+Lactobacillus oris F0423,944562.4,fig|944562.4.peg.222,HMPREF9102_2015,proY,D-serine/D-alanine/glycine transporter,1359,452,452,21,93,95,18,448,52,0
+Actinomyces massiliensis F0489,1125718.3,fig|1125718.3.peg.989,HMPREF1318_0225,,Lysine-specific permease,1521,506,506,26,71,65,41,368,52,0
+Pseudomonas sp. P179,1125698.3,fig|1125698.3.peg.1570,HMPREF1224_07024,,"Uncharacterized amino acid permease, GabP family",1323,440,440,21,71,72,56,373,52,0
+Pseudomonas sp. 2_1_26,665948.3,fig|665948.3.peg.2193,HMPREF1030_02192,,Arginine permease RocE,1413,470,470,24,69,68,25,342,52,0
+Lactobacillus parafarraginis F0439,797515.3,fig|797515.3.peg.133,HMPREF9103_00148,,Serine/threonine exchanger SteT,1404,467,467,25,56,53,7,255,52,0
+Pseudomonas sp. HPB0071,1203578.3,fig|1203578.3.peg.4386,HMPREF1487_08662,,gamma-aminobutyrate (GABA) permease,1404,467,467,24,87,84,19,412,52,0
+Klebsiella oxytoca 10-5243,883118.3,fig|883118.3.peg.164,HMPREF9687_00166,,Proline-specific permease ProY,1371,456,456,23,72,72,3,331,52,0
+Streptococcus vestibularis F0396,904306.3,fig|904306.3.peg.1966,HMPREF9192_0421,,"Uncharacterized amino acid permease, GabP family",1392,463,463,20,90,92,8,431,52,0
+Streptococcus intermedius F0413,883167.4,fig|883167.4.peg.364,HMPREF9177_00350,,Arginine permease,1374,457,457,22,52,54,3,248,52,0
+Streptococcus salivarius SK126,596322.3,fig|596322.3.peg.1848,STRSA0001_0933,,"Uncharacterized amino acid permease, GabP family",1392,463,463,20,87,87,27,431,52,0
+Klebsiella pneumoniae subsp. pneumoniae WGLW2,1203545.3,fig|1203545.3.peg.1357,HMPREF1306_01349,,Histidine transport protein (permease),1383,460,460,23,86,83,24,405,52,0
+Klebsiella sp. MS 92-3,749535.4,fig|749535.4.peg.3057,HMPREF9538_03572,,Histidine transport protein (permease),1383,460,460,23,86,83,24,405,52,0
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.2868,HMPREF0886_1126,,Uncharacterized transporter YbxG,1383,460,460,22,73,72,66,396,52,0
+Bifidobacterium breve HPH0326,1203540.3,fig|1203540.3.peg.1355,HMPREF1482_01362,,Aromatic amino acid transport protein AroP,1473,490,490,23,71,68,31,361,52,0
+Lactobacillus oris F0423,944562.4,fig|944562.4.peg.1883,HMPREF9102_1177,lysP_1,Lysine-specific permease,1428,475,475,24,76,75,9,362,51,0
+Escherichia coli MS 124-1,679205.4,fig|679205.4.peg.104,HMPREF9347_00105,,Proline-specific permease ProY,1374,457,457,23,64,64,64,354,51,0
+Escherichia coli MS 145-7,679204.3,fig|679204.3.peg.2005,HMPREF9348_02072,,Proline-specific permease ProY,1374,457,457,23,64,64,64,354,51,0
+Bifidobacterium adolescentis L2-32,411481.5,fig|411481.5.peg.817,BIFADO_00784,,Uncharacterized amino acid permease YhdG,1428,475,475,24,63,64,72,374,51,0
+Bifidobacterium sp. 12_1_47BFAA,469594.3,fig|469594.3.peg.950,HMPREF0177_00933,,Uncharacterized amino acid permease YhdG,1461,486,486,25,62,62,72,371,51,0
+Bifidobacterium longum subsp. longum 1-6B strain 6-Jan,1161744.3,fig|1161744.3.peg.1997,HMPREF1313_0339,,Uncharacterized amino acid permease YhdG,1461,486,486,25,62,62,72,371,51,0
+Bifidobacterium longum subsp. longum 1-6B strain 6-Jan,1161744.3,fig|1161744.3.peg.1726,HMPREF1313_1576,,"Uncharacterized amino acid permease, GabP family",1575,524,524,24,85,75,73,467,51,0
+Actinomyces neuii strain MJR8396A,33007.3,fig|33007.3.peg.1057,HMPREF3198_01074,,hypothetical protein,1368,455,455,25,54,51,35,267,51,0
+Gemella haemolysans M341,562981.3,fig|562981.3.peg.503,HMPREF0428_00507,,Lysine-specific permease,1497,498,498,26,73,71,22,375,51,0
+Acetobacteraceae bacterium AT-5844,1054213.3,fig|1054213.3.peg.1605,HMPREF9946_01740,,"Uncharacterized amino acid permease, GabP family",1368,455,455,26,64,63,24,308,51,0
+Shigella sp. D9,556266.3,fig|556266.3.peg.3194,ShiD9_010100015735,proY,Proline-specific permease ProY,1320,439,439,23,64,66,46,336,51,0
+Escherichia sp. 3_2_53FAA,469598.5,fig|469598.5.peg.579,ESAG_00785,,Proline-specific permease ProY,1320,439,439,23,64,66,46,336,51,0
+Lactobacillus rhamnosus LMS2-1,525361.3,fig|525361.3.peg.2140,HMPREF0539_2900,,Uncharacterized transporter YbxG,1392,463,463,25,76,74,48,389,51,0
+Bifidobacterium sp. 12_1_47BFAA,469594.3,fig|469594.3.peg.1545,HMPREF0177_01523,,"Uncharacterized amino acid permease, GabP family",1575,524,524,24,85,75,73,467,51,0
+Rothia dentocariosa M567,563032.4,fig|563032.4.peg.1178,HMPREF0734_00720,,Lysine-specific permease,1500,499,499,25,94,90,38,486,51,0
+Klebsiella sp. MS 92-3,749535.4,fig|749535.4.peg.2938,HMPREF9538_03442,,Proline-specific permease ProY,1374,457,457,23,72,72,3,331,50,0
+Klebsiella sp. 1_1_55,469608.3,fig|469608.3.peg.2392,HMPREF0485_01824,,Proline-specific permease ProY,1374,457,457,23,72,72,3,331,50,0
+Bifidobacterium breve HPH0326,1203540.3,fig|1203540.3.peg.1672,HMPREF1482_01678,,Arginine permease RocE,1581,526,526,25,85,75,74,468,50,0
+Pseudomonas sp. HPB0071,1203578.3,fig|1203578.3.peg.3437,HMPREF1487_07728,,Lysine-specific permease,1518,505,505,30,34,32,220,382,50,0
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.1263,HMPREF0886_2400,,Uncharacterized transporter YbxG,1350,449,449,22,73,74,49,381,50,0
+Klebsiella pneumoniae subsp. pneumoniae WGLW2,1203545.3,fig|1203545.3.peg.836,HMPREF1306_00827,,Proline-specific permease ProY,1374,457,457,23,72,72,3,331,50,0
+Gemella morbillorum M424,562982.3,fig|562982.3.peg.13,HMPREF0432_00013,,Uncharacterized GabP-family amino acid permease SAV1333,1443,480,480,22,76,74,1,356,50,0
+Escherichia coli MS 124-1,679205.4,fig|679205.4.peg.1080,HMPREF9347_01135,,L-methionine and branched-chain amino acid export protein YjeH,1257,418,418,27,52,54,6,232,50,0
+Escherichia coli MS 145-7,679204.3,fig|679204.3.peg.3935,HMPREF9348_04073,,L-methionine and branched-chain amino acid export protein YjeH,1257,418,418,27,52,54,6,232,50,0
+Shigella sp. D9,556266.3,fig|556266.3.peg.2589,ShiD9_010100012780,,L-methionine and branched-chain amino acid export protein YjeH,1257,418,418,27,52,54,6,232,50,0
+Pseudomonas sp. HPB0071,1203578.3,fig|1203578.3.peg.3295,HMPREF1487_07587,,Ethanolamine permease,1371,456,456,25,65,65,41,335,50,0
+Actinomyces urogenitalis S6-C4,1284679.3,fig|1284679.3.peg.976,HMPREF1626_05060,,D-serine/D-alanine/glycine transporter,1386,461,461,27,78,78,19,377,50,0
+Actinomyces cardiffensis F0333,888050.3,fig|888050.3.peg.816,HMPREF9004_0861,cycA,D-serine/D-alanine/glycine transporter,1419,472,472,25,78,74,24,371,50,0
+Klebsiella sp. 1_1_55,469608.3,fig|469608.3.peg.669,HMPREF0485_00960,,"Uncharacterized amino acid permease, GabP family",1527,508,508,25,67,60,41,346,50,0
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.2869,HMPREF0886_1127,,Uncharacterized transporter YbxG,1401,466,466,22,73,71,68,400,50,0
+Acinetobacter radioresistens SK82,596318.3,fig|596318.3.peg.313,ACIRA0001_2332,,Aromatic amino acid transport protein AroP,1383,460,460,19,74,73,1,338,50,0
+Bifidobacterium sp. 12_1_47BFAA,469594.3,fig|469594.3.peg.1437,HMPREF0177_01413,,Amino acid permease-associated region precursor,1527,508,508,23,68,68,41,383,50,0
+Bifidobacterium longum subsp. longum 1-6B strain 6-Jan,1161744.3,fig|1161744.3.peg.355,HMPREF1313_1862,,Amino acid permease-associated region precursor,1527,508,508,23,68,68,41,383,50,0
+Citrobacter sp. 30_2,469595.3,fig|469595.3.peg.3080,CSAG_03076,,L-methionine and branched-chain amino acid export protein YjeH,1266,421,421,26,54,56,6,240,49,0
+Propionibacterium sp. oral taxon 192 str. F0372,1203605.3,fig|1203605.3.peg.1716,HMPREF1531_01661,,D-serine/D-alanine/glycine transporter,1431,476,476,21,74,71,19,358,49,0
+Eubacterium infirmum F0142,883109.3,fig|883109.3.peg.562,HMPREF0380_00565,,"Uncharacterized amino acid permease, GabP family",1383,460,460,20,77,74,63,402,49,0
+Lactobacillus jensenii 208-1,596326.3,fig|596326.3.peg.1264,HMPREF0886_2401,,Uncharacterized transporter YbxG,1383,460,460,22,73,72,66,396,49,0
+Pseudomonas sp. 2_1_26,665948.3,fig|665948.3.peg.4057,HMPREF1030_04126,,Aromatic amino acid transport protein AroP,1419,472,472,23,71,70,20,348,49,0
+Streptomyces sp. HGB0020,1078086.3,fig|1078086.3.peg.1434,HMPREF1211_01412,,L-asparagine permease,1467,488,488,22,71,66,38,361,49,0
+Pseudomonas sp. P179,1125698.3,fig|1125698.3.peg.4542,HMPREF1224_09949,,Aromatic amino acid transport protein AroP,1419,472,472,23,71,70,20,348,49,0
+Streptococcus sobrinus W1703,1227275.3,fig|1227275.3.peg.1878,HMPREF1557_02086,,S-methylmethionine permease,1374,457,457,23,69,69,27,343,49,0
+Streptococcus mitis bv. 2 str. F0392,768726.4,fig|768726.4.peg.1684,HMPREF9178_1805,,"Uncharacterized amino acid permease, GabP family",1365,454,454,24,72,73,1,331,49,0
+Veillonella montpellierensis DNF00314,1401067.3,fig|1401067.3.peg.1052,HMPREF0872_05480,,Amino-acid permease AapA,1350,449,449,23,43,41,204,388,49,0
+Dermabacter sp. HFH0086,1203568.3,fig|1203568.3.peg.647,HMPREF1484_00668,,Amino acid permease in hypothetical Actinobacterial gene cluster,1611,536,536,25,71,59,62,379,49,0
+Pseudomonas sp. HPB0071,1203578.3,fig|1203578.3.peg.3849,HMPREF1487_08134,,Aromatic amino acid transport protein AroP,1422,473,473,22,71,69,20,346,49,0
+Arthrobacter albus DNF00011,1401063.13,fig|1401063.13.peg.1474,,,Histidine transport protein (permease),1440,479,479,24,77,73,37,385,49,0.0001
+Bifidobacterium adolescentis L2-32,411481.5,fig|411481.5.peg.611,BIFADO_00542,,Amino acid permease-associated region precursor,1500,499,499,23,63,64,77,393,49,0.0001
+Rothia aeria F0474,1125724.3,fig|1125724.3.peg.1420,HMPREF1324_0141,,L-asparagine permease,1611,536,536,23,81,67,90,449,49,0.0001
+Veillonella montpellierensis DNF00314,1401067.3,fig|1401067.3.peg.1563,HMPREF0872_08210,,Lysine-specific permease,1446,481,481,26,72,69,16,347,49,0.0001
+Lactobacillus gasseri 224-1,679196.3,fig|679196.3.peg.1675,HMPREF9209_1661,,Probable glutamate/gamma-aminobutyrate antiporter,1434,477,477,23,82,84,78,476,49,0.0001
+Rothia dentocariosa M567,563032.4,fig|563032.4.peg.723,HMPREF0734_01374,,L-asparagine permease,1584,527,527,22,81,68,89,448,49,0.0001
+Lactobacillus reuteri CF48-3A,525341.3,fig|525341.3.peg.501,HMPREF0534_1675,,Uncharacterized transporter YbxG,1383,460,460,22,70,70,65,387,49,0.0001
+Streptococcus downei F0415,904293.3,fig|904293.3.peg.1390,HMPREF9176_0913,,Cationic amino acid transporter - APC Superfamily,1398,465,465,23,74,75,31,379,49,0.0001
+Klebsiella sp. MS 92-3,749535.4,fig|749535.4.peg.4909,HMPREF9538_05730,,Aromatic amino acid transport protein AroP,1380,459,459,21,71,70,18,337,49,0.0001
+Rhodococcus erythropolis SK121,596309.3,fig|596309.3.peg.4143,RHOER0001_5083,,gamma-aminobutyrate (GABA) permease,1410,469,469,25,75,72,3,342,49,0.0001
+Peptoniphilus sp. BV3AC2,1111133.4,fig|1111133.4.peg.598,HMPREF1252_1752,,hypothetical protein,1353,450,450,24,71,67,31,333,49,0.0001
+Rhodococcus erythropolis SK121,596309.3,fig|596309.3.peg.1766,RHOER0001_1557,,Histidine transport protein (permease),1392,463,463,23,75,76,1,353,49,0.0001
+Streptococcus mitis bv. 2 str. F0392,768726.4,fig|768726.4.peg.413,HMPREF9178_0426,,Cationic amino acid transporter - APC Superfamily,1398,465,465,24,76,78,15,376,49,0.0001
+Lactobacillus gasseri 224-1,679196.3,fig|679196.3.peg.457,HMPREF9209_0194,,D-serine/D-alanine/glycine transporter,1374,457,457,22,78,79,23,385,48,0.0001
+Klebsiella oxytoca 10-5243,883118.3,fig|883118.3.peg.2643,HMPREF9687_02597,,Lysine-specific permease,1470,489,489,26,75,71,22,369,48,0.0001
+Lactobacillus parafarraginis F0439,797515.3,fig|797515.3.peg.824,HMPREF9103_00890,,"Uncharacterized amino acid permease, GabP family",978,325,325,26,54,76,15,261,48,0.0001
+Propionibacterium propionicum F0230a,767029.3,fig|767029.3.peg.876,HMPREF9154_0899,cycA_1,D-serine/D-alanine/glycine transporter,1440,479,479,25,32,30,207,350,48,0.0001
+Escherichia sp. 3_2_53FAA,469598.5,fig|469598.5.peg.1788,ESAG_02196,,Probable glutamate/gamma-aminobutyrate antiporter,1221,406,406,26,51,59,6,244,48,0.0001
+Actinomyces odontolyticus F0309,649742.3,fig|649742.3.peg.29,HMPREF0970_00209,,L-asparagine permease,1461,486,486,25,73,70,29,366,48,0.0001
+Oxalobacter formigenes OXCC13,556269.4,fig|556269.4.peg.1416,OFBG_00244,,hypothetical protein,1575,524,524,22,67,63,70,399,48,0.0001
+Enterococcus faecium ERV102,1134820.3,fig|1134820.3.peg.2487,HMPREF1362_02685,,hypothetical protein,1332,443,443,22,72,73,15,339,48,0.0001
+Streptococcus sobrinus W1703,1227275.3,fig|1227275.3.peg.1141,HMPREF1557_01289,,"Agmatine/putrescine antiporter, associated with agmatine catabolism",1353,450,450,22,59,59,65,331,48,0.0001
+Gemella haemolysans M341,562981.3,fig|562981.3.peg.17,HMPREF0428_00017,,Uncharacterized GabP-family amino acid permease SAV1333,1443,480,480,23,78,75,1,361,48,0.0001
